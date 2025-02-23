@@ -6,5 +6,5 @@ It will also stores your medical history (if you want) and can analyse your curr
 
 
 
-First create virtual enivronment in your Python environment then add all the files
+First create virtual enivronment (.env) in your Python environment then add all the files
 
