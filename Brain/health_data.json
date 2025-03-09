@@ -1,13 +1,22 @@
 {
-    "headache": "Headaches can be caused by stress, dehydration, or lack of sleep. Drink water and rest.",
-    "fever": "Fever is usually a sign of infection. Stay hydrated and take fever-reducing medication if necessary.",
-    "cough": "Cough can be due to a cold, flu, or allergies. Try warm fluids and rest.",
-    "stomach pain": "Stomach pain could be caused by indigestion or gas. Drink warm water and eat light food.",
-    "health_tips": [
-        "Drink at least 8 glasses of water daily.",
-        "Get 7-8 hours of sleep for better health.",
-        "Exercise regularly to stay fit and strong.",
-        "Wash your hands frequently to prevent infections.",
-        "Eat fruits and vegetables for essential nutrients."
-    ]
+    "post_conversation": [
+        "Take care of yourself!",
+        "Sleep well and stay hydrated!",
+        "Rest well and eat healthy!",
+        "Wishing you a quick recovery!",
+        "Stay strong and positive!"
+    ],
+    "symptoms_responses": {
+        "fever": "A fever is a temporary increase in body temperature. Stay hydrated and rest well.",
+        "cold": "A cold is a viral infection that affects your nose and throat. Drink warm fluids and rest.",
+        "headache": "Headaches can be caused by stress, dehydration, or lack of sleep. Try to relax and stay hydrated.",
+        "cough": "A cough might be due to allergies, infection, or irritation. Drink warm tea and avoid cold drinks.",
+        "stomach pain": "Stomach pain can be caused by indigestion, acidity, or infection. Eat light and stay hydrated."
+    },
+    "general_responses": {
+        "hello": "Hello! How are you feeling today?",
+        "how are you": "I'm here to assist you! How can I help with your health?",
+        "thank you": "You're welcome! Stay healthy! 😊",
+        "bye": "Goodbye! Wishing you good health! 🌿"
+    }
 }
