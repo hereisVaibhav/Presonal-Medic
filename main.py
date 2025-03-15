@@ -18,7 +18,7 @@ def main():
 
         elif "symptom" in user_input or "feel" in user_input or "feeling" in user_input:
             symptom = input("Enter your symptoms: ")
-            print("Bot:", checker.search_symptom(symptom))
+            print("A.I:", checker.search_symptom(symptom))
 
         elif "reminder" in user_input:
             medicine = input("Enter medicine name: ")
@@ -29,11 +29,11 @@ def main():
                 reminder_time = input("Enter reminder time (HH:MM format): ")
 
             days = int(input("Enter for how many days you need a reminder: "))
-            print("Bot:", reminder.add_reminder(medicine, reminder_time, days))
+            print("A.I:", reminder.add_reminder(medicine, reminder_time, days))
             print("📅 Reminder system running in the background...")
 
         else:
-            print("Bot:", bot.respond(user_input))
+            print("A.I:", bot.respond(user_input))
 
 if __name__ == "__main__":
     main()
