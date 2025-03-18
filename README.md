@@ -8,6 +8,7 @@ It will also stores your medical history (if you want) and can analyse your curr
 
 First create virtual enivronment (.env) in your Python environment then add all the files
 
-In these, I added disease_symptoms.csv file, which contains different types of disease and their symptoms and how to treat it. Using this csv file we are estimating everything using ML model.
+In these, I added disease_symptoms.csv file, which contains different types of disease and their symptoms and how to treat it. Using this csv file we are estimating everything using ML model.....
+
 
 
