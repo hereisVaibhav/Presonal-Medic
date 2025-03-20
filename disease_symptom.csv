@@ -1,0 +1,1001 @@
+Symptom(s),Possible Disease,Precautions,Treatment
+"Runny Nose, Cold Hands",Flu,Use mosquito repellent,"Blood Thinners, Antihistamines, Pacemaker Implantation"
+"Sore Throat, Nosebleeds, Sensitivity to Light, Shortness of Breath",Multiple Sclerosis,"Regular health checkups, Avoid stress",Surgery
+"Heart Palpitations, Dry Skin, Difficulty Swallowing, High Blood Pressure",Thyroid Disease,Drink herbal tea,"Hormonal Therapy, Steroids"
+"Heart Palpitations, Runny Nose",Lung Infection,Use sunscreen,"Emergency Medical Help, Dietary Supplements, Skin Creams"
+"Sneezing, Numbness, Back Pain, Shortness of Breath",Arthritis,Stay hydrated,Anti-inflammatory Drugs
+"Swelling in Legs, Weight Loss",Liver Disease,"Reduce sugar intake, Avoid crowded places","IV Fluids, Blood Thinners, Antihistamines"
+"Shortness of Breath, Fatigue",Multiple Sclerosis,"Reduce salt intake, Avoid bright lights","Insulin, Hormonal Therapy"
+"Sneezing, Abdominal Pain",Anemia,"Avoid bright lights, Wash hands frequently",Hormonal Therapy
+"Sneezing, Diarrhea, Loss of Appetite",Malaria,Maintain hygiene,"Antifungal Medication, Emergency Medical Help"
+"Excessive Thirst, Back Pain, Nausea, Sweating",Epilepsy,Eat healthy,Eye Drops
+"Runny Nose, Tingling Sensation",Arrhythmia,"Take vaccines, Sleep properly, Exercise regularly",Paracetamol
+"Tingling Sensation, Itchy Eyes, Nosebleeds, Back Pain",Thyroid Disease,"Sleep properly, Drink herbal tea","Physiotherapy, Antibiotics, IV Fluids"
+"Frequent Urination, Fever, Joint Pain",Lupus,"Sleep properly, Use sunscreen","Antibiotics, Paracetamol"
+"Joint Pain, Cold Hands",Liver Disease,"Use sunscreen, Reduce sugar intake, Avoid stress",Antiviral Drugs
+"Fever, Sensitivity to Light",Liver Disease,Stay hydrated,Eye Drops
+"Frequent Urination, High Blood Pressure",Common Cold,"Regular health checkups, Monitor blood pressure, Meditate daily",Chemotherapy
+"Cough, Difficulty Swallowing, Headache, Nausea",Diabetes,"Sleep properly, Avoid allergens, Meditate daily",Steroids
+"Runny Nose, Heart Palpitations, Numbness",Malaria,Reduce salt intake,"Emergency Medical Help, Antihistamines"
+"Cough, Sneezing",Dengue,"Rest, Wear a mask, Exercise regularly","Dietary Supplements, Radiation Therapy"
+"Fever, Headache, Sore Throat, Cold Hands",Hepatitis,Maintain hygiene,Chemotherapy
+"Difficulty Swallowing, Abdominal Pain",Malaria,"Reduce sugar intake, Take vaccines","Vitamin Supplements, Inhalers, Emergency Medical Help"
+"Dry Skin, Joint Pain, Tremors",Diabetes,"Regular health checkups, Get proper nutrition","Oxygen Therapy, Steroids, Pacemaker Implantation"
+"Sweating, Shortness of Breath, Cold Hands",Lupus,"Eat healthy, Reduce caffeine intake","Shockwave Therapy, Steroids"
+"Blurred Vision, Frequent Urination, Difficulty Swallowing, Shortness of Breath",Typhoid,"Maintain hygiene, Rest, Reduce salt intake","Insulin, Psychotherapy"
+"Shortness of Breath, Muscle Weakness",Flu,"Reduce salt intake, Use mosquito repellent","Emergency Medical Help, Surgery"
+"Sweating, Runny Nose, Diarrhea",Pancreatitis,Avoid stress,"Vaccination, Insulin"
+"Muscle Weakness, Fever, Low Blood Pressure",Arrhythmia,"Eat healthy, Reduce sugar intake","Surgery, Dietary Supplements"
+"Sneezing, Weight Loss",Hepatitis,"Avoid allergens, Sleep properly, Use mosquito repellent","Vitamin Supplements, Radiation Therapy"
+"Mood Swings, Swollen Glands",Asthma,"Regular health checkups, Wash hands frequently","Oxygen Therapy, Physiotherapy"
+"Tremors, High Blood Pressure, Mood Swings",Colon Cancer,Stay hydrated,"Paracetamol, Hormonal Therapy, Antihistamines"
+"Dry Skin, Itchy Eyes, Headache, Frequent Urination",Typhoid,"Rest, Sleep properly","Chemotherapy, Blood Thinners, Steroids"
+"Tremors, Low Blood Pressure, Blurred Vision",PCOS,"Eat healthy, Monitor blood pressure, Avoid alcohol",Bone Marrow Transplant
+"Difficulty Swallowing, Blurred Vision, Nosebleeds",Malaria,Exercise regularly,"Cough Syrup, Steroids"
+"Ear Pain, Nausea",Mental Stress,Avoid allergens,"Hormonal Therapy, Dietary Supplements"
+"Low Blood Pressure, Cough, Swelling in Legs",Epilepsy,"Stay hydrated, Regular health checkups","Antifungal Medication, Emergency Medical Help"
+"Blurred Vision, Difficulty Swallowing, Shortness of Breath, Tingling Sensation",Arrhythmia,Avoid bright lights,"Dietary Supplements, Emergency Medical Help, Chemotherapy"
+"Shortness of Breath, Swelling in Legs, Tingling Sensation, Abdominal Pain",Arrhythmia,"Wash hands frequently, Get proper nutrition","Antihistamines, IV Fluids, Eye Drops"
+"Nausea, Fever",Dengue,Reduce caffeine intake,"Shockwave Therapy, Cognitive Therapy"
+"Weight Loss, High Blood Pressure",Bronchitis,Avoid crowded places,"Skin Creams, Radiation Therapy, Oral Rehydration"
+"Tremors, High Blood Pressure, Weight Loss, Sensitivity to Light",Hypertension,Stay hydrated,Skin Creams
+"Fever, Loss of Appetite",Epilepsy,Use an inhaler,"Steroids, Surgery"
+"Swelling in Legs, Mood Swings, Fever, Swollen Glands",Dengue,"Avoid allergens, Reduce sugar intake, Stay hydrated","Oxygen Therapy, Eye Drops, Shockwave Therapy"
+"Headache, Shortness of Breath",Multiple Sclerosis,"Reduce caffeine intake, Use an inhaler","Shockwave Therapy, Blood Thinners, Vitamin Supplements"
+"Excessive Thirst, Chest Pain, Diarrhea, High Blood Pressure",Epilepsy,Stay hydrated,"Oxygen Therapy, Blood Thinners, Insulin"
+"Weight Loss, Joint Pain",Vertigo,Avoid smoking,"Antiviral Drugs, Blood Thinners"
+"High Blood Pressure, Cough",Hypertension,"Exercise regularly, Reduce caffeine intake","Oxygen Therapy, Paracetamol, Radiation Therapy"
+"Tingling Sensation, Mood Swings, Low Blood Pressure, Headache",Flu,"Rest, Get proper nutrition","Inhalers, Steroids"
+"Swollen Glands, Tremors, Loss of Appetite",Colon Cancer,"Reduce sugar intake, Maintain hygiene, Avoid allergens","Steroids, Skin Creams, Inhalers"
+"Fever, Blurred Vision, Low Blood Pressure",Hypertension,"Stay hydrated, Avoid allergens, Take vaccines","Dietary Supplements, Oral Rehydration, Antibiotics"
+"Headache, Cold Hands",Food Poisoning,"Wear a mask, Rest, Monitor blood pressure",Vitamin Supplements
+"Diarrhea, Sensitivity to Light, Numbness, Low Blood Pressure",Malaria,Meditate daily,"Blood Thinners, IV Fluids, Inhalers"
+"Heart Palpitations, Fatigue, Sweating, Loss of Appetite",Lung Infection,Drink herbal tea,"Radiation Therapy, Shockwave Therapy"
+"Sneezing, Itchy Eyes",Kidney Stones,"Drink herbal tea, Exercise regularly",Cough Syrup
+"Memory Loss, Low Blood Pressure, Cough, Mood Swings",Hypertension,"Drink herbal tea, Regular health checkups, Get proper nutrition","Surgery, Psychotherapy"
+"Frequent Urination, Chest Pain, Runny Nose",Bronchitis,"Monitor blood pressure, Meditate daily, Reduce salt intake","Cognitive Therapy, IV Fluids"
+"Diarrhea, Sensitivity to Light",Hepatitis,"Sleep properly, Avoid allergens","Antiviral Drugs, Insulin, Cough Syrup"
+"Nausea, Diarrhea, Low Blood Pressure",Thyroid Disease,"Regular health checkups, Exercise regularly, Avoid allergens",Painkillers
+"Fatigue, High Blood Pressure",Glaucoma,Use sunscreen,"Cough Syrup, Insulin, Dietary Supplements"
+"Shortness of Breath, Low Blood Pressure",Eczema,Rest,Dietary Supplements
+"Sneezing, Itchy Eyes",Typhoid,"Use an inhaler, Meditate daily",Antibiotics
+"Sensitivity to Light, Dry Skin, Rash, Headache",Eczema,"Get proper nutrition, Sleep properly, Avoid crowded places","Radiation Therapy, Inhalers"
+"Joint Pain, Fever, Tremors, Numbness",Thyroid Disease,"Reduce salt intake, Exercise regularly","Oxygen Therapy, Insulin"
+"Cold Hands, Rash, Heart Palpitations, Low Blood Pressure",Bronchitis,"Regular health checkups, Use an inhaler","Vaccination, IV Fluids, Antiviral Drugs"
+"Excessive Thirst, Cough, Ear Pain, Tingling Sensation",Eczema,Drink herbal tea,Hormonal Therapy
+"Swelling in Legs, Tingling Sensation",Dengue,"Exercise regularly, Regular health checkups, Avoid alcohol","Antifungal Medication, Insulin"
+"Joint Pain, Nosebleeds, Heart Palpitations",Epilepsy,"Monitor blood pressure, Sleep properly, Avoid smoking","Blood Thinners, Emergency Medical Help"
+"Cold Hands, Back Pain, Memory Loss, Sweating",PCOS,"Avoid crowded places, Avoid allergens, Reduce sugar intake",Cough Syrup
+"Joint Pain, Itchy Eyes",Glaucoma,Exercise regularly,"Pacemaker Implantation, Eye Drops, Radiation Therapy"
+"Swollen Glands, Dry Skin, Sore Throat, High Blood Pressure",Meningitis,"Wash hands frequently, Monitor blood pressure","Radiation Therapy, Pacemaker Implantation"
+"Dry Skin, Joint Pain, Diarrhea",Sciatica,"Stay hydrated, Get proper nutrition",Emergency Medical Help
+"Numbness, Dry Skin, Loss of Appetite",Malaria,Wash hands frequently,"Insulin, Anti-inflammatory Drugs, Inhalers"
+"Chest Pain, Cold Hands",Thyroid Disease,"Use an inhaler, Monitor blood pressure",Paracetamol
+"Sore Throat, Swollen Glands, Rash, Chest Pain",Lupus,Avoid stress,"Insulin, Physiotherapy, Dietary Supplements"
+"Tingling Sensation, Ear Pain, Memory Loss, Fever",Liver Disease,"Maintain hygiene, Exercise regularly",Radiation Therapy
+"Ear Pain, Weight Loss, Loss of Appetite, Muscle Weakness",Parkinson’s Disease,"Sleep properly, Meditate daily, Monitor blood pressure",Emergency Medical Help
+"Ear Pain, Fatigue",Diabetes,"Avoid allergens, Drink herbal tea, Exercise regularly","Chemotherapy, Eye Drops, Cough Syrup"
+"Mood Swings, Blurred Vision",Sciatica,"Stay hydrated, Regular health checkups, Take vaccines",Antibiotics
+"Fever, Sensitivity to Light",Arrhythmia,"Take vaccines, Avoid alcohol, Wear a mask",Psychotherapy
+"Diarrhea, Frequent Urination, Fatigue",Arthritis,Maintain hygiene,Pacemaker Implantation
+"Frequent Urination, Rash, Joint Pain",Glaucoma,Avoid smoking,"Skin Creams, Psychotherapy"
+"Runny Nose, Sore Throat, Mood Swings, Difficulty Swallowing",Heart Attack,"Maintain hygiene, Regular health checkups","Anti-inflammatory Drugs, Blood Thinners"
+"Difficulty Swallowing, Tingling Sensation",Tuberculosis,"Use sunscreen, Wear a mask","Antihistamines, Antifungal Medication"
+"Tremors, Sensitivity to Light, Fatigue, Muscle Weakness",Kidney Stones,"Wash hands frequently, Reduce sugar intake","Shockwave Therapy, Vaccination"
+"Sensitivity to Light, Tremors, Itchy Eyes",Pancreatitis,Use an inhaler,"Chemotherapy, Psychotherapy, Antihistamines"
+"Diarrhea, Back Pain, Cold Hands, Runny Nose",Pneumonia,"Avoid smoking, Maintain hygiene","Antiviral Drugs, Antifungal Medication"
+"Runny Nose, Numbness, Rash, Swelling in Legs",Diabetes,"Eat healthy, Stay hydrated, Avoid alcohol",Vitamin Supplements
+"Memory Loss, Ear Pain",Meningitis,"Avoid smoking, Sleep properly","Physiotherapy, Vaccination"
+"Loss of Appetite, Swelling in Legs, Chest Pain",Colon Cancer,"Take vaccines, Avoid allergens","Radiation Therapy, Blood Thinners, Psychotherapy"
+"Rash, Low Blood Pressure, Back Pain",Dengue,"Reduce sugar intake, Monitor blood pressure, Avoid stress",Shockwave Therapy
+"Joint Pain, Weight Loss, Fatigue",Pneumonia,Reduce caffeine intake,Dietary Supplements
+"Dizziness, Sore Throat, Runny Nose, Tremors",Sciatica,"Drink herbal tea, Rest","Bone Marrow Transplant, Vaccination"
+"Frequent Urination, Numbness, Dizziness, Sore Throat",Dengue,"Use an inhaler, Sleep properly","Anti-inflammatory Drugs, Radiation Therapy"
+"Dizziness, Sneezing, Sore Throat",Meningitis,"Avoid crowded places, Stay hydrated, Avoid smoking","Dietary Supplements, Painkillers, Steroids"
+"Swelling in Legs, Abdominal Pain",Sciatica,Exercise regularly,Bone Marrow Transplant
+"Sweating, Runny Nose, Swelling in Legs, Memory Loss",Glaucoma,"Avoid crowded places, Take vaccines","Emergency Medical Help, Antifungal Medication"
+"Loss of Appetite, Sweating, Heart Palpitations",Thyroid Disease,Use sunscreen,"Skin Creams, Radiation Therapy"
+"Sneezing, Nosebleeds, Weight Loss, Shortness of Breath",Hypertension,"Eat healthy, Use mosquito repellent",Antibiotics
+"Frequent Urination, Fever, Numbness, Muscle Weakness",Stroke,Meditate daily,"Blood Thinners, Skin Creams"
+"Nosebleeds, Itchy Eyes, Ear Pain",Bronchitis,"Stay hydrated, Use mosquito repellent","Oral Rehydration, Hormonal Therapy"
+"Excessive Thirst, Joint Pain, Difficulty Swallowing",Hypertension,"Avoid stress, Eat healthy",Oral Rehydration
+"Runny Nose, Memory Loss, Mood Swings, Tremors",Food Poisoning,Use mosquito repellent,Steroids
+"Back Pain, Headache, Blurred Vision, Nausea",PCOS,Use sunscreen,"Emergency Medical Help, Insulin, Radiation Therapy"
+"Dry Skin, Back Pain, Ear Pain, Sore Throat",Tuberculosis,Get proper nutrition,"Cognitive Therapy, Vaccination"
+"Back Pain, Chest Pain, Blurred Vision",Liver Disease,"Meditate daily, Rest",Psychotherapy
+"Fatigue, Rash, Loss of Appetite",Mental Stress,"Avoid smoking, Meditate daily","Oxygen Therapy, Paracetamol, IV Fluids"
+"Shortness of Breath, Numbness, Sensitivity to Light",Flu,"Reduce salt intake, Avoid smoking","Eye Drops, Physiotherapy"
+"Numbness, Low Blood Pressure, Back Pain",Thyroid Disease,Reduce salt intake,"IV Fluids, Antibiotics, Skin Creams"
+"High Blood Pressure, Dry Skin, Back Pain",Epilepsy,"Meditate daily, Take vaccines","Antifungal Medication, Physiotherapy"
+"Nausea, Runny Nose, Muscle Weakness, Low Blood Pressure",Malaria,Reduce sugar intake,"Physiotherapy, Shockwave Therapy"
+"Ear Pain, Swollen Glands, Sensitivity to Light",Sciatica,"Eat healthy, Use an inhaler, Reduce caffeine intake","Pacemaker Implantation, Radiation Therapy"
+"Fever, Cough, Nausea, Sneezing",Stroke,"Avoid alcohol, Monitor blood pressure","Antibiotics, Dietary Supplements, Steroids"
+"Cold Hands, Blurred Vision",Tuberculosis,"Reduce salt intake, Eat healthy, Meditate daily",Psychotherapy
+"Tremors, Excessive Thirst",Pancreatitis,Reduce caffeine intake,"Antihistamines, Bone Marrow Transplant"
+"Dry Skin, Loss of Appetite",Liver Disease,"Eat healthy, Regular health checkups","Antihistamines, Pacemaker Implantation"
+"Loss of Appetite, Cough, Back Pain",Leukemia,Reduce sugar intake,"Antibiotics, Chemotherapy"
+"Runny Nose, Shortness of Breath",Multiple Sclerosis,"Sleep properly, Regular health checkups, Avoid bright lights","Antiviral Drugs, Cough Syrup, Skin Creams"
+"Muscle Weakness, Nosebleeds",Liver Disease,"Avoid stress, Wash hands frequently","IV Fluids, Pacemaker Implantation, Vitamin Supplements"
+"Nosebleeds, Loss of Appetite, Mood Swings",Brain Tumor,Exercise regularly,"Antibiotics, Oral Rehydration"
+"Swollen Glands, Tingling Sensation, Weight Loss",Eczema,Wear a mask,Steroids
+"Low Blood Pressure, Tremors, High Blood Pressure, Sore Throat",Vertigo,"Avoid alcohol, Reduce salt intake",Physiotherapy
+"Loss of Appetite, Sensitivity to Light, Blurred Vision, Sneezing",Hepatitis,"Sleep properly, Use sunscreen, Avoid stress","Skin Creams, Antifungal Medication, Bone Marrow Transplant"
+"Tingling Sensation, Loss of Appetite",Lupus,"Avoid stress, Use sunscreen",Insulin
+"Numbness, Mood Swings, Runny Nose, Weight Loss",Tuberculosis,Avoid crowded places,"Vaccination, IV Fluids"
+"Cough, Back Pain",Glaucoma,"Reduce salt intake, Avoid allergens",Vaccination
+"Shortness of Breath, Loss of Appetite, Nosebleeds, Cough",Arthritis,Reduce salt intake,"Cognitive Therapy, Shockwave Therapy"
+"Loss of Appetite, Cough, Fatigue",Hypertension,"Sleep properly, Wear a mask, Take vaccines","Antihistamines, Radiation Therapy, Surgery"
+"Ear Pain, Heart Palpitations, Diarrhea, Sneezing",Epilepsy,Sleep properly,"Cough Syrup, Antiviral Drugs, Antibiotics"
+"Nausea, Excessive Thirst",Lung Infection,Use sunscreen,"IV Fluids, Bone Marrow Transplant"
+"Itchy Eyes, Nosebleeds",Hepatitis,"Use sunscreen, Rest","Hormonal Therapy, Steroids, Oxygen Therapy"
+"Numbness, Low Blood Pressure, Sore Throat",Liver Disease,Stay hydrated,"Anti-inflammatory Drugs, Hormonal Therapy, Oral Rehydration"
+"Heart Palpitations, Cough",Kidney Stones,"Maintain hygiene, Reduce salt intake, Monitor blood pressure",Chemotherapy
+"Nausea, Numbness",Heart Attack,"Get proper nutrition, Take vaccines",Oral Rehydration
+"Ear Pain, Sweating, Runny Nose, Nosebleeds",Glaucoma,"Take vaccines, Avoid stress","Insulin, Chemotherapy"
+"Runny Nose, Dizziness",Glaucoma,"Drink herbal tea, Exercise regularly","Dietary Supplements, Antifungal Medication"
+"Sensitivity to Light, Shortness of Breath, Back Pain, Numbness",Lung Infection,"Use mosquito repellent, Monitor blood pressure",Vaccination
+"Loss of Appetite, Fever",Hypertension,Reduce caffeine intake,"Radiation Therapy, Physiotherapy"
+"Heart Palpitations, Muscle Weakness",Sinusitis,"Take vaccines, Avoid bright lights","Hormonal Therapy, Inhalers, Painkillers"
+"Rash, Joint Pain, Sensitivity to Light",Glaucoma,"Sleep properly, Avoid stress","Chemotherapy, Oxygen Therapy"
+"Sensitivity to Light, Tingling Sensation, Itchy Eyes, Heart Palpitations",Pancreatitis,"Exercise regularly, Regular health checkups","Oxygen Therapy, Psychotherapy"
+"Ear Pain, Joint Pain",Pancreatitis,"Wash hands frequently, Meditate daily, Reduce salt intake","Vitamin Supplements, Emergency Medical Help, Surgery"
+"Muscle Weakness, Frequent Urination",Common Cold,"Avoid allergens, Avoid smoking",Emergency Medical Help
+"Fatigue, Weight Loss, Swelling in Legs",Stroke,Rest,"Surgery, Bone Marrow Transplant"
+"Tingling Sensation, Joint Pain, Sensitivity to Light",Epilepsy,"Wear a mask, Regular health checkups","Oral Rehydration, Surgery"
+"Rash, Mood Swings, Nausea, Muscle Weakness",Lung Infection,"Reduce sugar intake, Use sunscreen",Skin Creams
+"Sensitivity to Light, Sore Throat, Fatigue, Dry Skin",Malaria,"Reduce sugar intake, Reduce caffeine intake, Avoid crowded places",IV Fluids
+"Mood Swings, Diarrhea, Sweating, Difficulty Swallowing",Parkinson’s Disease,Rest,"Inhalers, Physiotherapy, Vaccination"
+"Ear Pain, Muscle Weakness",Flu,"Drink herbal tea, Eat healthy","Eye Drops, IV Fluids, Oxygen Therapy"
+"Cough, Rash",Sciatica,"Reduce caffeine intake, Use mosquito repellent","Cough Syrup, Vitamin Supplements"
+"Dizziness, Rash, Abdominal Pain",Lung Infection,"Eat healthy, Drink herbal tea, Monitor blood pressure","Oxygen Therapy, Painkillers, IV Fluids"
+"Fever, Tremors, Loss of Appetite",Thyroid Disease,Reduce caffeine intake,Insulin
+"Difficulty Swallowing, Cold Hands, Fever",Typhoid,"Avoid alcohol, Use sunscreen, Avoid smoking","Oral Rehydration, Insulin"
+"Loss of Appetite, Sore Throat, Cold Hands, Joint Pain",Multiple Sclerosis,"Monitor blood pressure, Avoid alcohol, Drink herbal tea","Skin Creams, Antiviral Drugs"
+"Nosebleeds, Headache, Numbness",Hypertension,"Drink herbal tea, Reduce sugar intake",Paracetamol
+"Itchy Eyes, Joint Pain",Tuberculosis,Avoid allergens,"IV Fluids, Psychotherapy"
+"Tremors, Blurred Vision, Ear Pain, Diarrhea",Lung Infection,"Use mosquito repellent, Avoid allergens","Emergency Medical Help, Antibiotics, Shockwave Therapy"
+"Dry Skin, Cough, Cold Hands",Hypertension,"Avoid stress, Get proper nutrition","Dietary Supplements, Cognitive Therapy, Skin Creams"
+"Tingling Sensation, Abdominal Pain, Sneezing, Loss of Appetite",Hypertension,Monitor blood pressure,"Vaccination, Radiation Therapy, Eye Drops"
+"Dizziness, Blurred Vision, Excessive Thirst, Runny Nose",Epilepsy,"Use sunscreen, Reduce salt intake","Emergency Medical Help, Antifungal Medication"
+"Frequent Urination, Abdominal Pain, Muscle Weakness",Lung Infection,"Reduce caffeine intake, Wash hands frequently","Antihistamines, Dietary Supplements, Vitamin Supplements"
+"Frequent Urination, Cold Hands",Common Cold,Take vaccines,Antifungal Medication
+"Muscle Weakness, Memory Loss, Fatigue",Thyroid Disease,"Avoid bright lights, Wear a mask, Use an inhaler","Pacemaker Implantation, Hormonal Therapy, Oral Rehydration"
+"Mood Swings, Abdominal Pain, Memory Loss",Diabetes,Wear a mask,Inhalers
+"Cough, Dizziness, Blurred Vision, Difficulty Swallowing",Liver Disease,Maintain hygiene,"Anti-inflammatory Drugs, IV Fluids"
+"Excessive Thirst, Sore Throat, Mood Swings, Runny Nose",Malaria,"Sleep properly, Avoid crowded places","Inhalers, Radiation Therapy, IV Fluids"
+"Sweating, Sore Throat, Sneezing, Fever",Dengue,Regular health checkups,"Radiation Therapy, Bone Marrow Transplant, Chemotherapy"
+"Swollen Glands, Fever, Dry Skin, Cold Hands",Pneumonia,Avoid crowded places,"Oral Rehydration, Pacemaker Implantation, Insulin"
+"Loss of Appetite, Excessive Thirst, Heart Palpitations, Nosebleeds",Anemia,"Regular health checkups, Eat healthy, Reduce sugar intake",Blood Thinners
+"Tremors, Blurred Vision",Diabetes,"Avoid crowded places, Use sunscreen","Chemotherapy, Anti-inflammatory Drugs"
+"Fever, Numbness, Sneezing",Hypertension,Wash hands frequently,"Antiviral Drugs, Inhalers"
+"Fever, Blurred Vision, Loss of Appetite, Cough",Malaria,"Avoid smoking, Use sunscreen, Monitor blood pressure","Antifungal Medication, Cognitive Therapy, Antiviral Drugs"
+"Diarrhea, Fever, Weight Loss",Thyroid Disease,Reduce caffeine intake,"Psychotherapy, Inhalers, Vitamin Supplements"
+"Abdominal Pain, Loss of Appetite, Nausea, Dizziness",Sinusitis,"Take vaccines, Avoid bright lights","Radiation Therapy, Antihistamines"
+"Muscle Weakness, Swollen Glands",Lupus,"Exercise regularly, Avoid stress, Reduce caffeine intake","Surgery, Psychotherapy"
+"Ear Pain, Nausea, Heart Palpitations",Heart Attack,"Reduce sugar intake, Use an inhaler, Drink herbal tea","Emergency Medical Help, Surgery"
+"Swelling in Legs, Sweating",Pancreatitis,Monitor blood pressure,"Bone Marrow Transplant, Emergency Medical Help"
+"Nausea, Difficulty Swallowing, Memory Loss",Dengue,Use sunscreen,"Antifungal Medication, Physiotherapy"
+"Dizziness, Weight Loss, Sweating, Low Blood Pressure",Liver Disease,"Avoid alcohol, Wash hands frequently",Antifungal Medication
+"Muscle Weakness, Tremors",Typhoid,"Avoid alcohol, Avoid smoking, Take vaccines","Dietary Supplements, Painkillers, Pacemaker Implantation"
+"Runny Nose, Tremors, Heart Palpitations, Abdominal Pain",Lung Infection,Monitor blood pressure,Antifungal Medication
+"High Blood Pressure, Swollen Glands, Runny Nose, Headache",Multiple Sclerosis,"Reduce caffeine intake, Exercise regularly, Maintain hygiene",IV Fluids
+"Difficulty Swallowing, Shortness of Breath, Weight Loss, Dry Skin",Lupus,Avoid stress,"Chemotherapy, Antibiotics"
+"Blurred Vision, Diarrhea, Tingling Sensation, Memory Loss",Migraine,"Monitor blood pressure, Reduce salt intake",Oxygen Therapy
+"Abdominal Pain, Heart Palpitations",Mental Stress,"Exercise regularly, Drink herbal tea, Get proper nutrition","Shockwave Therapy, Skin Creams"
+"Dizziness, Itchy Eyes, Mood Swings",Glaucoma,Maintain hygiene,Anti-inflammatory Drugs
+"Weight Loss, Joint Pain, Heart Palpitations, Cough",Sinusitis,Regular health checkups,"Skin Creams, Dietary Supplements"
+"Tingling Sensation, Nausea",Parkinson’s Disease,Reduce sugar intake,Vaccination
+"Loss of Appetite, Ear Pain, Numbness",Multiple Sclerosis,"Avoid allergens, Regular health checkups, Rest","Anti-inflammatory Drugs, Surgery"
+"Low Blood Pressure, Weight Loss, Swollen Glands",Pneumonia,"Avoid stress, Drink herbal tea, Take vaccines","Antihistamines, Chemotherapy, Painkillers"
+"Frequent Urination, Swollen Glands",Colon Cancer,"Maintain hygiene, Monitor blood pressure, Use an inhaler",Psychotherapy
+"Sensitivity to Light, Runny Nose, Excessive Thirst, Fever",Food Poisoning,Monitor blood pressure,IV Fluids
+"Fever, Heart Palpitations, Muscle Weakness, Swollen Glands",Anemia,Wash hands frequently,Insulin
+"Weight Loss, Swollen Glands",Brain Tumor,"Avoid smoking, Avoid alcohol",Painkillers
+"Fatigue, Dry Skin, Swollen Glands, High Blood Pressure",Leukemia,"Take vaccines, Stay hydrated, Monitor blood pressure","Anti-inflammatory Drugs, Emergency Medical Help"
+"Nosebleeds, Shortness of Breath",Lupus,"Avoid alcohol, Avoid smoking","Radiation Therapy, Antihistamines"
+"Low Blood Pressure, Sensitivity to Light, Numbness, Dry Skin",PCOS,"Avoid allergens, Avoid stress, Regular health checkups",Antifungal Medication
+"Frequent Urination, Low Blood Pressure, High Blood Pressure",Malaria,"Use an inhaler, Use sunscreen","Blood Thinners, Psychotherapy, Chemotherapy"
+"Loss of Appetite, Rash, Weight Loss",PCOS,"Avoid stress, Wash hands frequently, Stay hydrated","Antibiotics, Physiotherapy, Oral Rehydration"
+"Joint Pain, Cough",Eczema,"Exercise regularly, Avoid smoking, Reduce sugar intake",Physiotherapy
+"Cold Hands, Dry Skin, Mood Swings, Runny Nose",Leukemia,"Wear a mask, Take vaccines","Chemotherapy, Cough Syrup, Vaccination"
+"Chest Pain, Nosebleeds",Pneumonia,Eat healthy,Skin Creams
+"High Blood Pressure, Excessive Thirst",Lupus,"Exercise regularly, Sleep properly","Anti-inflammatory Drugs, Physiotherapy, Eye Drops"
+"Nausea, Cough, Rash",Bronchitis,"Exercise regularly, Eat healthy, Use an inhaler","Psychotherapy, Cough Syrup"
+"Fever, Back Pain, Sweating",Vertigo,Take vaccines,Cough Syrup
+"Itchy Eyes, Shortness of Breath",Colon Cancer,Eat healthy,Paracetamol
+"Chest Pain, Excessive Thirst, Joint Pain",Hypertension,"Eat healthy, Take vaccines, Sleep properly","Radiation Therapy, Vaccination, Anti-inflammatory Drugs"
+"Headache, Numbness, Sweating",Typhoid,"Exercise regularly, Reduce caffeine intake","Vitamin Supplements, Pacemaker Implantation, Bone Marrow Transplant"
+"Diarrhea, Heart Palpitations",Migraine,Take vaccines,Insulin
+"Excessive Thirst, Cough, Weight Loss, Nosebleeds",Vertigo,"Avoid bright lights, Meditate daily, Rest",Skin Creams
+"Blurred Vision, Memory Loss, Mood Swings, Sore Throat",Sciatica,Reduce caffeine intake,"Psychotherapy, Paracetamol"
+"Loss of Appetite, Tingling Sensation",Typhoid,Reduce salt intake,Antifungal Medication
+"Dry Skin, Sneezing, Frequent Urination",Sinusitis,"Avoid smoking, Wash hands frequently, Monitor blood pressure","Cognitive Therapy, Vaccination"
+"Dry Skin, Cold Hands",Thyroid Disease,"Monitor blood pressure, Sleep properly","Antifungal Medication, Vitamin Supplements, Psychotherapy"
+"Sensitivity to Light, Dizziness, Cold Hands",Malaria,Use an inhaler,Antiviral Drugs
+"Dry Skin, Cough",Stroke,Avoid allergens,Psychotherapy
+"Memory Loss, Diarrhea",Multiple Sclerosis,"Use mosquito repellent, Get proper nutrition, Avoid crowded places",Psychotherapy
+"High Blood Pressure, Sensitivity to Light, Mood Swings",Sciatica,"Reduce salt intake, Drink herbal tea, Stay hydrated","Antihistamines, Surgery, Oral Rehydration"
+"Muscle Weakness, Shortness of Breath, High Blood Pressure, Sweating",Colon Cancer,Avoid smoking,"Shockwave Therapy, Eye Drops, Bone Marrow Transplant"
+"Swollen Glands, Frequent Urination, Abdominal Pain, Cold Hands",Bronchitis,"Use sunscreen, Stay hydrated","Dietary Supplements, Antihistamines"
+"Shortness of Breath, Sensitivity to Light",Epilepsy,Eat healthy,"Cough Syrup, Inhalers, Dietary Supplements"
+"Dizziness, Mood Swings, Tingling Sensation, Swelling in Legs",Migraine,"Sleep properly, Exercise regularly","Cognitive Therapy, Chemotherapy, Shockwave Therapy"
+"Nausea, Nosebleeds, Low Blood Pressure",Colon Cancer,"Meditate daily, Eat healthy, Avoid stress",Hormonal Therapy
+"Shortness of Breath, Memory Loss, Joint Pain",Thyroid Disease,"Monitor blood pressure, Avoid alcohol, Take vaccines",Antihistamines
+"Sensitivity to Light, Excessive Thirst, Difficulty Swallowing",Hepatitis,"Stay hydrated, Sleep properly",Oral Rehydration
+"Swelling in Legs, Shortness of Breath, Sweating, Numbness",Kidney Stones,Use sunscreen,"Cough Syrup, Shockwave Therapy, Emergency Medical Help"
+"Back Pain, Chest Pain, Sweating",Parkinson’s Disease,"Meditate daily, Avoid alcohol, Avoid smoking","Insulin, Radiation Therapy, Eye Drops"
+"Chest Pain, Weight Loss, Memory Loss",Bronchitis,"Avoid bright lights, Meditate daily, Use mosquito repellent",Paracetamol
+"Ear Pain, Back Pain, Sweating",Glaucoma,Drink herbal tea,"Dietary Supplements, Painkillers"
+"Muscle Weakness, Shortness of Breath",Sinusitis,"Use mosquito repellent, Avoid allergens, Take vaccines","Psychotherapy, Chemotherapy"
+"Tremors, Abdominal Pain, Shortness of Breath",Typhoid,"Reduce caffeine intake, Use sunscreen, Use an inhaler","Psychotherapy, Emergency Medical Help, Eye Drops"
+"Abdominal Pain, Memory Loss, Numbness",Sinusitis,Wear a mask,"Antihistamines, Radiation Therapy"
+"Mood Swings, Excessive Thirst, Chest Pain, Ear Pain",Liver Disease,Get proper nutrition,Vitamin Supplements
+"Low Blood Pressure, Heart Palpitations, Nausea, Back Pain",Dengue,"Avoid crowded places, Avoid smoking, Reduce sugar intake",Insulin
+"Swollen Glands, Abdominal Pain",Tuberculosis,"Reduce sugar intake, Rest","Dietary Supplements, Steroids, Antiviral Drugs"
+"Sneezing, Numbness, Rash, Tremors",Pneumonia,"Meditate daily, Take vaccines","Bone Marrow Transplant, Emergency Medical Help, Inhalers"
+"Runny Nose, Sore Throat, Sensitivity to Light",Flu,"Maintain hygiene, Exercise regularly, Rest","IV Fluids, Paracetamol"
+"Shortness of Breath, Nosebleeds, Fever, Low Blood Pressure",Malaria,"Use mosquito repellent, Wash hands frequently","Pacemaker Implantation, Radiation Therapy"
+"High Blood Pressure, Weight Loss, Dizziness",Arrhythmia,Reduce sugar intake,Paracetamol
+"Tremors, Headache",PCOS,"Avoid bright lights, Maintain hygiene","Pacemaker Implantation, Hormonal Therapy, Cognitive Therapy"
+"Tremors, Dizziness, Rash, Mood Swings",Leukemia,"Avoid stress, Use mosquito repellent, Monitor blood pressure",Anti-inflammatory Drugs
+"Muscle Weakness, Heart Palpitations, Swollen Glands",Epilepsy,"Monitor blood pressure, Wear a mask","Antiviral Drugs, Skin Creams, Psychotherapy"
+"Diarrhea, Runny Nose, Mood Swings",Tuberculosis,Sleep properly,"Skin Creams, Surgery"
+"Rash, Nosebleeds",Liver Disease,"Maintain hygiene, Drink herbal tea",Antibiotics
+"Memory Loss, Sneezing, Loss of Appetite",Vertigo,"Exercise regularly, Avoid bright lights","Skin Creams, Oral Rehydration, Cognitive Therapy"
+"Low Blood Pressure, Loss of Appetite",Colon Cancer,Use sunscreen,"Anti-inflammatory Drugs, Painkillers"
+"Dry Skin, Diarrhea, Cold Hands, Swollen Glands",Common Cold,"Avoid crowded places, Meditate daily, Eat healthy","Oxygen Therapy, Psychotherapy"
+"Tingling Sensation, Ear Pain",Arthritis,"Regular health checkups, Reduce salt intake",IV Fluids
+"Runny Nose, Frequent Urination",Flu,"Avoid alcohol, Sleep properly, Wash hands frequently","Radiation Therapy, Inhalers, Steroids"
+"Heart Palpitations, Itchy Eyes, Sore Throat",Meningitis,"Stay hydrated, Avoid smoking","Insulin, Antihistamines, Physiotherapy"
+"Tingling Sensation, Sweating",Food Poisoning,"Avoid stress, Take vaccines, Regular health checkups","Dietary Supplements, Insulin, Cognitive Therapy"
+"Runny Nose, Heart Palpitations, Low Blood Pressure, Abdominal Pain",Lupus,Avoid crowded places,"Steroids, Bone Marrow Transplant, Dietary Supplements"
+"Memory Loss, Fever, Muscle Weakness",Migraine,Get proper nutrition,Surgery
+"Loss of Appetite, Dry Skin",Stroke,Exercise regularly,"Cognitive Therapy, Blood Thinners"
+"Loss of Appetite, Fatigue, Itchy Eyes, Back Pain",Multiple Sclerosis,"Reduce salt intake, Maintain hygiene, Use mosquito repellent","Chemotherapy, Oral Rehydration"
+"Dizziness, Mood Swings, Dry Skin, Tingling Sensation",Vertigo,Wear a mask,"Antihistamines, Pacemaker Implantation, Oral Rehydration"
+"Fever, Blurred Vision, Memory Loss, Sneezing",Food Poisoning,"Avoid alcohol, Get proper nutrition","Blood Thinners, Psychotherapy, Cough Syrup"
+"Dizziness, Frequent Urination",Arrhythmia,"Monitor blood pressure, Sleep properly","Eye Drops, IV Fluids, Pacemaker Implantation"
+"Nausea, Frequent Urination",Bronchitis,"Avoid allergens, Rest, Reduce caffeine intake","Antifungal Medication, Oxygen Therapy, Painkillers"
+"Runny Nose, Dry Skin, Cold Hands, Sensitivity to Light",Lung Infection,Get proper nutrition,"Emergency Medical Help, IV Fluids"
+"Dry Skin, Numbness",Hypertension,Eat healthy,"Hormonal Therapy, Antiviral Drugs"
+"Sneezing, Swelling in Legs",PCOS,"Wash hands frequently, Take vaccines, Maintain hygiene",Cough Syrup
+"Difficulty Swallowing, Runny Nose, Memory Loss, Mood Swings",Hepatitis,Meditate daily,Steroids
+"Sweating, Joint Pain, Blurred Vision",Pancreatitis,"Reduce sugar intake, Monitor blood pressure, Avoid crowded places","Surgery, Insulin, IV Fluids"
+"Shortness of Breath, Low Blood Pressure",Lung Infection,"Rest, Get proper nutrition, Exercise regularly","Dietary Supplements, Hormonal Therapy"
+"Muscle Weakness, Swollen Glands, Rash",Sinusitis,Drink herbal tea,"Blood Thinners, Antifungal Medication, Insulin"
+"Memory Loss, Shortness of Breath",PCOS,"Use mosquito repellent, Avoid smoking, Avoid alcohol",Chemotherapy
+"Sweating, Low Blood Pressure, Dizziness, Cold Hands",Lupus,"Avoid allergens, Wash hands frequently, Reduce salt intake","Cognitive Therapy, Insulin"
+"Low Blood Pressure, Cough, Headache, Rash",Stroke,"Get proper nutrition, Rest, Drink herbal tea","Physiotherapy, Antifungal Medication, Eye Drops"
+"Cold Hands, Tremors, Numbness",Typhoid,"Monitor blood pressure, Avoid allergens, Eat healthy","Psychotherapy, Anti-inflammatory Drugs"
+"Muscle Weakness, Heart Palpitations, Mood Swings",Parkinson’s Disease,"Avoid crowded places, Get proper nutrition, Maintain hygiene","Anti-inflammatory Drugs, Pacemaker Implantation, Dietary Supplements"
+"Fatigue, Nosebleeds, Memory Loss",Stroke,"Reduce salt intake, Eat healthy, Meditate daily","IV Fluids, Vaccination, Steroids"
+"Cough, Weight Loss, Itchy Eyes, Sneezing",Eczema,"Wear a mask, Maintain hygiene, Rest","Steroids, Antifungal Medication, Shockwave Therapy"
+"Mood Swings, Shortness of Breath, Abdominal Pain, Sweating",Vertigo,Avoid bright lights,Antiviral Drugs
+"Muscle Weakness, Weight Loss, Memory Loss, Sneezing",Epilepsy,"Wash hands frequently, Monitor blood pressure, Use mosquito repellent",Anti-inflammatory Drugs
+"Runny Nose, Loss of Appetite, Dry Skin, Shortness of Breath",Eczema,"Sleep properly, Reduce salt intake","Insulin, Hormonal Therapy"
+"Back Pain, Rash, Swelling in Legs",Heart Attack,"Avoid alcohol, Use sunscreen, Meditate daily","Physiotherapy, Vaccination, IV Fluids"
+"Weight Loss, Swelling in Legs",Epilepsy,"Get proper nutrition, Reduce sugar intake, Regular health checkups","Hormonal Therapy, Cough Syrup, Antiviral Drugs"
+"Sweating, Tingling Sensation",Hypertension,"Drink herbal tea, Avoid alcohol","Eye Drops, Cough Syrup"
+"Dry Skin, Chest Pain, Nausea",Mental Stress,Regular health checkups,"Antifungal Medication, Cough Syrup, Emergency Medical Help"
+"Muscle Weakness, Loss of Appetite, Runny Nose",Brain Tumor,"Avoid crowded places, Eat healthy","Vitamin Supplements, Physiotherapy"
+"Frequent Urination, Back Pain, Sweating",Migraine,"Avoid crowded places, Reduce salt intake, Drink herbal tea","Oral Rehydration, Oxygen Therapy, Pacemaker Implantation"
+"Chest Pain, Rash, Muscle Weakness, Cold Hands",PCOS,"Wash hands frequently, Exercise regularly, Eat healthy",Oxygen Therapy
+"Weight Loss, Difficulty Swallowing",Pneumonia,"Wear a mask, Stay hydrated",Inhalers
+"Heart Palpitations, Nausea, Headache",Asthma,Use an inhaler,"Skin Creams, Antibiotics, Insulin"
+"Sensitivity to Light, High Blood Pressure",Meningitis,"Get proper nutrition, Rest, Stay hydrated","Bone Marrow Transplant, Inhalers, Anti-inflammatory Drugs"
+"Sore Throat, Blurred Vision, Shortness of Breath, Nausea",Typhoid,"Rest, Use mosquito repellent, Reduce salt intake","Antifungal Medication, Antihistamines"
+"Difficulty Swallowing, High Blood Pressure, Heart Palpitations",PCOS,"Maintain hygiene, Monitor blood pressure",Cognitive Therapy
+"Difficulty Swallowing, Rash",Brain Tumor,Meditate daily,"Shockwave Therapy, Vaccination, Cognitive Therapy"
+"Fever, Tingling Sensation, Low Blood Pressure",Malaria,Reduce salt intake,Bone Marrow Transplant
+"Blurred Vision, Difficulty Swallowing, Shortness of Breath, Itchy Eyes",PCOS,Reduce caffeine intake,Psychotherapy
+"Dry Skin, Fatigue, Runny Nose",Hepatitis,"Monitor blood pressure, Reduce sugar intake","Emergency Medical Help, Surgery, Antifungal Medication"
+"Weight Loss, Ear Pain, Cough, Swollen Glands",Anemia,Reduce sugar intake,"Eye Drops, Antibiotics"
+"Loss of Appetite, Sensitivity to Light, Itchy Eyes, Fatigue",Stroke,"Wear a mask, Reduce sugar intake, Get proper nutrition","Cough Syrup, Cognitive Therapy"
+"Back Pain, Sneezing",Migraine,Reduce salt intake,IV Fluids
+"Loss of Appetite, Fatigue",Diabetes,"Reduce salt intake, Avoid stress",Vaccination
+"Memory Loss, Excessive Thirst",Tuberculosis,"Use mosquito repellent, Wear a mask",Hormonal Therapy
+"Itchy Eyes, Rash",Bronchitis,"Rest, Reduce caffeine intake, Use an inhaler",Hormonal Therapy
+"Dizziness, Cough",Hepatitis,Eat healthy,"Insulin, Shockwave Therapy, Bone Marrow Transplant"
+"Headache, Abdominal Pain, Rash",Pancreatitis,"Reduce sugar intake, Wear a mask, Maintain hygiene","Vaccination, Antifungal Medication, Oxygen Therapy"
+"Nausea, Dry Skin, Memory Loss, Low Blood Pressure",Vertigo,"Take vaccines, Maintain hygiene",Surgery
+"Dizziness, Sensitivity to Light, Loss of Appetite, Back Pain",Pneumonia,Sleep properly,"Bone Marrow Transplant, Cough Syrup"
+"Memory Loss, Shortness of Breath",Dengue,Use an inhaler,"Antibiotics, Vaccination"
+"Itchy Eyes, Ear Pain",Sinusitis,"Regular health checkups, Avoid allergens","Inhalers, Oral Rehydration"
+"Numbness, Sore Throat, Muscle Weakness, Low Blood Pressure",Sinusitis,"Regular health checkups, Monitor blood pressure","Emergency Medical Help, Antiviral Drugs, Painkillers"
+"High Blood Pressure, Itchy Eyes",Glaucoma,"Reduce sugar intake, Maintain hygiene","Steroids, Inhalers"
+"Dry Skin, Nausea, Ear Pain, Difficulty Swallowing",Hypertension,Wash hands frequently,Skin Creams
+"Mood Swings, Chest Pain, Low Blood Pressure",Brain Tumor,"Avoid crowded places, Avoid alcohol, Reduce sugar intake","Eye Drops, Pacemaker Implantation, Surgery"
+"Nausea, Cough",Glaucoma,Avoid bright lights,IV Fluids
+"Back Pain, Fever",Parkinson’s Disease,"Avoid stress, Use mosquito repellent","Surgery, Bone Marrow Transplant, Anti-inflammatory Drugs"
+"Ear Pain, Itchy Eyes, Mood Swings, Runny Nose",Hepatitis,"Wear a mask, Exercise regularly, Avoid bright lights",Cough Syrup
+"Nosebleeds, High Blood Pressure",Pneumonia,Reduce sugar intake,"Radiation Therapy, Dietary Supplements, Antifungal Medication"
+"Headache, Numbness, Nausea, Swelling in Legs",Typhoid,"Wash hands frequently, Exercise regularly","Paracetamol, Bone Marrow Transplant, Vaccination"
+"Numbness, Shortness of Breath",Anemia,"Rest, Maintain hygiene, Get proper nutrition","Hormonal Therapy, Psychotherapy, Inhalers"
+"Swollen Glands, Chest Pain",Epilepsy,Rest,"Oxygen Therapy, Hormonal Therapy, Surgery"
+"Numbness, Blurred Vision, Swollen Glands",Sciatica,"Avoid crowded places, Use an inhaler, Take vaccines","Antibiotics, Inhalers"
+"Sneezing, Loss of Appetite",Mental Stress,Monitor blood pressure,"Vaccination, Antifungal Medication, Cognitive Therapy"
+"Low Blood Pressure, Swollen Glands, Dizziness",Eczema,Meditate daily,"Antihistamines, Surgery"
+"Back Pain, Sore Throat, Shortness of Breath, Loss of Appetite",Parkinson’s Disease,"Maintain hygiene, Avoid allergens","Cognitive Therapy, Skin Creams"
+"Sore Throat, Difficulty Swallowing",Sinusitis,Drink herbal tea,Bone Marrow Transplant
+"Sneezing, Shortness of Breath",Asthma,"Exercise regularly, Reduce caffeine intake, Eat healthy",Psychotherapy
+"Itchy Eyes, Abdominal Pain, Runny Nose, Joint Pain",Stroke,"Maintain hygiene, Avoid alcohol, Use an inhaler","Oxygen Therapy, Paracetamol, Emergency Medical Help"
+"Fever, Loss of Appetite, Joint Pain",Liver Disease,"Wash hands frequently, Reduce caffeine intake",Vitamin Supplements
+"Blurred Vision, Frequent Urination, Cold Hands, Memory Loss",Stroke,"Reduce caffeine intake, Reduce sugar intake, Exercise regularly","Oxygen Therapy, Antiviral Drugs"
+"Ear Pain, Low Blood Pressure, Loss of Appetite, Nausea",Eczema,"Rest, Reduce caffeine intake, Exercise regularly",Oxygen Therapy
+"Headache, Dizziness, Muscle Weakness",Anemia,"Reduce sugar intake, Drink herbal tea","Emergency Medical Help, Vaccination"
+"Abdominal Pain, Shortness of Breath, Nosebleeds",Pneumonia,Avoid crowded places,IV Fluids
+"Memory Loss, Nosebleeds, Swelling in Legs",Flu,"Use mosquito repellent, Monitor blood pressure","Anti-inflammatory Drugs, Blood Thinners, Antiviral Drugs"
+"Swelling in Legs, Numbness, Mood Swings",Asthma,Use sunscreen,Oxygen Therapy
+"High Blood Pressure, Mood Swings, Rash, Fever",Heart Attack,"Use mosquito repellent, Exercise regularly","Inhalers, Antiviral Drugs, Cough Syrup"
+"Fever, Loss of Appetite, Tremors",Multiple Sclerosis,Reduce caffeine intake,Bone Marrow Transplant
+"Muscle Weakness, Back Pain, Loss of Appetite",Stroke,"Use mosquito repellent, Get proper nutrition",IV Fluids
+"Frequent Urination, Abdominal Pain, Blurred Vision, Itchy Eyes",Lupus,"Get proper nutrition, Avoid smoking",Oral Rehydration
+"Sore Throat, Numbness, Sweating, Nosebleeds",PCOS,"Avoid allergens, Wash hands frequently, Avoid stress","Insulin, Oxygen Therapy"
+"Fever, Weight Loss",Tuberculosis,Avoid smoking,"Dietary Supplements, Psychotherapy, Chemotherapy"
+"Numbness, Nausea, Mood Swings",Glaucoma,"Reduce caffeine intake, Get proper nutrition","Cognitive Therapy, Physiotherapy"
+"Sensitivity to Light, Nausea",Common Cold,Avoid smoking,Surgery
+"Dizziness, Tremors, Sensitivity to Light",Leukemia,Use sunscreen,"Cognitive Therapy, Anti-inflammatory Drugs"
+"Excessive Thirst, Memory Loss, Rash, Sore Throat",Lung Infection,"Reduce caffeine intake, Exercise regularly, Monitor blood pressure","IV Fluids, Antiviral Drugs"
+"Sore Throat, High Blood Pressure, Swelling in Legs, Sneezing",Common Cold,"Reduce sugar intake, Wear a mask, Regular health checkups","Dietary Supplements, IV Fluids, Inhalers"
+"Dry Skin, Swelling in Legs, Sensitivity to Light",Epilepsy,"Regular health checkups, Avoid allergens, Reduce salt intake","Antifungal Medication, Eye Drops, Antibiotics"
+"Fever, Rash",Leukemia,"Wash hands frequently, Meditate daily","Painkillers, Steroids, Antifungal Medication"
+"Nausea, Fever, Ear Pain",Diabetes,"Eat healthy, Sleep properly, Reduce sugar intake","Cough Syrup, Antibiotics"
+"Rash, Fever",PCOS,"Wear a mask, Use sunscreen, Stay hydrated",Inhalers
+"Sneezing, Nausea, Tremors, Runny Nose",Lung Infection,"Rest, Eat healthy",Antibiotics
+"Sweating, Dizziness",Asthma,Avoid bright lights,"Inhalers, Dietary Supplements, Hormonal Therapy"
+"Abdominal Pain, Headache, Joint Pain, Fever",Malaria,Avoid alcohol,Radiation Therapy
+"Nausea, Sneezing, Muscle Weakness, Itchy Eyes",Diabetes,Reduce salt intake,Physiotherapy
+"Frequent Urination, Dizziness, Headache",Stroke,"Rest, Wash hands frequently","IV Fluids, Inhalers"
+"Back Pain, Muscle Weakness",Thyroid Disease,"Take vaccines, Get proper nutrition, Eat healthy",Oxygen Therapy
+"Memory Loss, Sneezing, Blurred Vision",Lung Infection,"Eat healthy, Reduce sugar intake","Hormonal Therapy, Oxygen Therapy"
+"Heart Palpitations, Sensitivity to Light",Malaria,"Drink herbal tea, Monitor blood pressure, Meditate daily",Antifungal Medication
+"Blurred Vision, Weight Loss, Memory Loss",PCOS,Wear a mask,"Antibiotics, Dietary Supplements, Shockwave Therapy"
+"Rash, Sneezing, Shortness of Breath, Fever",Thyroid Disease,"Monitor blood pressure, Drink herbal tea, Avoid allergens","Inhalers, IV Fluids, Pacemaker Implantation"
+"Sneezing, High Blood Pressure, Ear Pain, Itchy Eyes",Meningitis,"Sleep properly, Maintain hygiene, Avoid stress","Chemotherapy, Physiotherapy"
+"Rash, Numbness, Weight Loss",Brain Tumor,"Avoid crowded places, Avoid smoking, Avoid alcohol","Chemotherapy, Vitamin Supplements"
+"Dry Skin, High Blood Pressure, Joint Pain",Heart Attack,"Regular health checkups, Take vaccines, Get proper nutrition","Radiation Therapy, Insulin, Pacemaker Implantation"
+"Swelling in Legs, Frequent Urination, Cold Hands",Lupus,Use mosquito repellent,"Oxygen Therapy, Dietary Supplements"
+"Fatigue, Chest Pain",Brain Tumor,"Regular health checkups, Exercise regularly","Anti-inflammatory Drugs, Psychotherapy, Antifungal Medication"
+"Joint Pain, Nosebleeds, Low Blood Pressure, Abdominal Pain",Parkinson’s Disease,"Eat healthy, Avoid alcohol","Physiotherapy, Hormonal Therapy, Chemotherapy"
+"Memory Loss, Sneezing, Loss of Appetite",Liver Disease,"Sleep properly, Take vaccines","Painkillers, Antiviral Drugs"
+"Runny Nose, Abdominal Pain, Rash, Itchy Eyes",Lupus,"Monitor blood pressure, Avoid alcohol","IV Fluids, Antiviral Drugs, Dietary Supplements"
+"Numbness, Headache",Food Poisoning,"Rest, Reduce caffeine intake, Drink herbal tea","Hormonal Therapy, Psychotherapy"
+"Frequent Urination, Muscle Weakness, Dizziness",Asthma,"Maintain hygiene, Use sunscreen, Avoid allergens",Anti-inflammatory Drugs
+"Back Pain, Blurred Vision, Sensitivity to Light",Heart Attack,Monitor blood pressure,"Bone Marrow Transplant, Eye Drops, Inhalers"
+"Numbness, Excessive Thirst",Eczema,"Eat healthy, Wear a mask","Oral Rehydration, Surgery"
+"Sensitivity to Light, Dizziness, Itchy Eyes",PCOS,"Meditate daily, Sleep properly","Surgery, Physiotherapy, Oral Rehydration"
+"Rash, Diarrhea",Hypertension,"Take vaccines, Reduce salt intake","Anti-inflammatory Drugs, Vaccination"
+"Excessive Thirst, Swelling in Legs, Difficulty Swallowing, Numbness",Thyroid Disease,"Avoid stress, Exercise regularly",Paracetamol
+"Difficulty Swallowing, Fatigue",Tuberculosis,"Drink herbal tea, Reduce caffeine intake","Chemotherapy, Steroids"
+"Muscle Weakness, Difficulty Swallowing, Runny Nose, Headache",PCOS,Regular health checkups,"Anti-inflammatory Drugs, Inhalers"
+"Nausea, Low Blood Pressure, Fever, Dry Skin",Multiple Sclerosis,Reduce sugar intake,"Cognitive Therapy, Antihistamines"
+"Memory Loss, Dry Skin, Swelling in Legs",Food Poisoning,"Wear a mask, Use an inhaler, Avoid bright lights","Eye Drops, Cognitive Therapy"
+"Abdominal Pain, Memory Loss",Common Cold,"Reduce caffeine intake, Rest","Radiation Therapy, Painkillers"
+"Swelling in Legs, Itchy Eyes, Cold Hands, Swollen Glands",Flu,"Use an inhaler, Avoid crowded places, Meditate daily",Psychotherapy
+"Dizziness, Diarrhea, Numbness, Ear Pain",Hepatitis,"Use an inhaler, Stay hydrated","Bone Marrow Transplant, Physiotherapy"
+"Frequent Urination, Nosebleeds, Sneezing, Abdominal Pain",Anemia,"Use sunscreen, Avoid allergens, Take vaccines","Antiviral Drugs, Antibiotics"
+"Rash, High Blood Pressure, Dry Skin",Brain Tumor,"Avoid crowded places, Meditate daily","Steroids, Antihistamines, Pacemaker Implantation"
+"Frequent Urination, Excessive Thirst",Multiple Sclerosis,Avoid crowded places,"Vitamin Supplements, Physiotherapy"
+"Abdominal Pain, Sneezing, Numbness",Migraine,Exercise regularly,"Radiation Therapy, Oxygen Therapy"
+"Heart Palpitations, Fatigue, Ear Pain, Headache",Liver Disease,"Wear a mask, Sleep properly, Use sunscreen",Psychotherapy
+"Frequent Urination, Nosebleeds",Arthritis,"Maintain hygiene, Wear a mask, Avoid alcohol","Oral Rehydration, Painkillers"
+"Muscle Weakness, Low Blood Pressure",Stroke,Stay hydrated,"Blood Thinners, Emergency Medical Help, Psychotherapy"
+"Swollen Glands, Chest Pain, Runny Nose, Shortness of Breath",Eczema,Monitor blood pressure,"Pacemaker Implantation, Chemotherapy, Oxygen Therapy"
+"Tingling Sensation, Excessive Thirst, Dizziness, Chest Pain",Common Cold,Get proper nutrition,"Psychotherapy, Cough Syrup, Anti-inflammatory Drugs"
+"Joint Pain, Dizziness, Frequent Urination, Itchy Eyes",Mental Stress,"Avoid alcohol, Eat healthy, Stay hydrated","Surgery, Skin Creams, Shockwave Therapy"
+"Cough, Diarrhea",Sinusitis,"Maintain hygiene, Wash hands frequently, Rest","Radiation Therapy, Bone Marrow Transplant"
+"Chest Pain, Low Blood Pressure, Dry Skin",Hypertension,"Maintain hygiene, Meditate daily","Hormonal Therapy, Blood Thinners"
+"Shortness of Breath, Dry Skin",Eczema,"Take vaccines, Get proper nutrition, Avoid stress",Cough Syrup
+"Shortness of Breath, Diarrhea, Heart Palpitations, Swollen Glands",Typhoid,Use mosquito repellent,Radiation Therapy
+"Numbness, Muscle Weakness, Fever",Malaria,"Eat healthy, Reduce salt intake, Monitor blood pressure",Antibiotics
+"Heart Palpitations, Shortness of Breath",PCOS,Stay hydrated,"Pacemaker Implantation, Cough Syrup"
+"Numbness, Back Pain",Sciatica,"Regular health checkups, Stay hydrated",Psychotherapy
+"Frequent Urination, Loss of Appetite, Cold Hands",Colon Cancer,Avoid allergens,"Vitamin Supplements, Cough Syrup, Bone Marrow Transplant"
+"Joint Pain, Swollen Glands",Dengue,"Reduce sugar intake, Maintain hygiene","Antibiotics, Inhalers, Antifungal Medication"
+"Nausea, Loss of Appetite, Muscle Weakness",Flu,"Avoid allergens, Avoid bright lights","Dietary Supplements, Vaccination"
+"Nosebleeds, Heart Palpitations, Frequent Urination, Shortness of Breath",Pneumonia,Use an inhaler,"Emergency Medical Help, Vaccination"
+"Runny Nose, Cough, Cold Hands",Flu,Use mosquito repellent,"Oral Rehydration, Steroids, Oxygen Therapy"
+"Itchy Eyes, High Blood Pressure, Heart Palpitations",Diabetes,"Reduce sugar intake, Meditate daily",Cough Syrup
+"Cold Hands, Memory Loss, Heart Palpitations, Numbness",Pneumonia,"Use an inhaler, Eat healthy, Get proper nutrition",Radiation Therapy
+"Blurred Vision, Memory Loss, Rash, Dizziness",Thyroid Disease,"Exercise regularly, Monitor blood pressure, Eat healthy","Blood Thinners, IV Fluids"
+"High Blood Pressure, Ear Pain, Sneezing, Mood Swings",Parkinson’s Disease,Use mosquito repellent,"IV Fluids, Blood Thinners, Vitamin Supplements"
+"Weight Loss, Nausea, Runny Nose",Heart Attack,"Avoid crowded places, Rest, Wash hands frequently","Vitamin Supplements, Surgery"
+"Fatigue, Headache, Nosebleeds",Mental Stress,"Avoid allergens, Get proper nutrition, Use an inhaler","Emergency Medical Help, Paracetamol, Shockwave Therapy"
+"Cough, Difficulty Swallowing, Back Pain, Dry Skin",Arthritis,"Avoid allergens, Avoid bright lights",Cognitive Therapy
+"Headache, Dizziness, Tingling Sensation",Arrhythmia,"Stay hydrated, Avoid crowded places",Insulin
+"Memory Loss, Excessive Thirst",Flu,Use sunscreen,Antibiotics
+"Heart Palpitations, Swollen Glands, Dry Skin, Fatigue",Flu,Avoid allergens,Shockwave Therapy
+"Fatigue, Diarrhea, Sneezing, Sore Throat",Heart Attack,Sleep properly,Paracetamol
+"Low Blood Pressure, Fever, Cough",Malaria,Avoid crowded places,"Painkillers, Cognitive Therapy, Physiotherapy"
+"Heart Palpitations, Tremors, Numbness, Joint Pain",PCOS,"Take vaccines, Use mosquito repellent","Antiviral Drugs, Antibiotics, Inhalers"
+"Sneezing, Difficulty Swallowing",Dengue,"Reduce caffeine intake, Wash hands frequently, Meditate daily",Vitamin Supplements
+"Fever, Weight Loss, Dry Skin",Brain Tumor,"Take vaccines, Use an inhaler, Stay hydrated","Surgery, Eye Drops"
+"Numbness, Difficulty Swallowing, Itchy Eyes",Hypertension,"Avoid bright lights, Exercise regularly","Surgery, Inhalers"
+"Joint Pain, Dry Skin, Sweating",Pancreatitis,Reduce caffeine intake,Chemotherapy
+"Nausea, Tingling Sensation, Nosebleeds, Abdominal Pain",Parkinson’s Disease,"Avoid smoking, Reduce salt intake, Avoid crowded places",Dietary Supplements
+"Itchy Eyes, Sweating, Back Pain, Diarrhea",PCOS,"Get proper nutrition, Maintain hygiene, Regular health checkups","Dietary Supplements, Blood Thinners"
+"Swelling in Legs, Runny Nose, Tingling Sensation, Chest Pain",Epilepsy,Wear a mask,"Dietary Supplements, Psychotherapy"
+"Sweating, Fatigue",Dengue,"Reduce caffeine intake, Monitor blood pressure","Dietary Supplements, Antifungal Medication, Insulin"
+"Blurred Vision, Fatigue, Sensitivity to Light, Loss of Appetite",Dengue,"Reduce salt intake, Avoid stress",Blood Thinners
+"Excessive Thirst, Joint Pain, Headache, Fever",Dengue,"Wear a mask, Regular health checkups, Use an inhaler",Physiotherapy
+"Fever, Chest Pain, Shortness of Breath, Memory Loss",Typhoid,Avoid crowded places,Blood Thinners
+"Heart Palpitations, Nosebleeds",Multiple Sclerosis,Avoid smoking,Bone Marrow Transplant
+"Mood Swings, Sensitivity to Light",Tuberculosis,"Reduce salt intake, Avoid smoking, Reduce caffeine intake","IV Fluids, Paracetamol, Antibiotics"
+"Memory Loss, Itchy Eyes, Nausea",Pneumonia,"Wear a mask, Avoid stress","Paracetamol, Dietary Supplements, Cough Syrup"
+"Tremors, Nosebleeds, High Blood Pressure",PCOS,"Rest, Avoid stress, Reduce salt intake",Antiviral Drugs
+"Difficulty Swallowing, Runny Nose, Memory Loss",Heart Attack,"Reduce sugar intake, Reduce salt intake, Avoid crowded places","Surgery, Physiotherapy, Antibiotics"
+"Back Pain, Tingling Sensation, Fatigue, Frequent Urination",Stroke,Meditate daily,"Paracetamol, Anti-inflammatory Drugs"
+"Dry Skin, Sneezing, Cough, Rash",Arthritis,Stay hydrated,"Radiation Therapy, Vaccination"
+"Fever, Headache, Diarrhea",Glaucoma,"Wear a mask, Take vaccines",Steroids
+"Shortness of Breath, Numbness, Dizziness",Multiple Sclerosis,"Meditate daily, Use sunscreen","Physiotherapy, Antihistamines, Psychotherapy"
+"Numbness, Frequent Urination, Diarrhea, Cough",Flu,"Maintain hygiene, Avoid alcohol","Eye Drops, Paracetamol, Chemotherapy"
+"Sneezing, Fever, Sweating",Parkinson’s Disease,Drink herbal tea,Eye Drops
+"Nausea, Diarrhea, Blurred Vision, Ear Pain",Migraine,Monitor blood pressure,"Oxygen Therapy, Antibiotics, Emergency Medical Help"
+"Tingling Sensation, Shortness of Breath, Cold Hands, Back Pain",Leukemia,Avoid crowded places,"Vaccination, Bone Marrow Transplant"
+"Sneezing, Memory Loss, Chest Pain, Rash",Eczema,"Reduce salt intake, Take vaccines","Antihistamines, Insulin"
+"Dizziness, Muscle Weakness, Memory Loss",PCOS,"Get proper nutrition, Wash hands frequently","Insulin, Inhalers, Radiation Therapy"
+"Fatigue, Nosebleeds, Itchy Eyes",Stroke,Drink herbal tea,"Dietary Supplements, Emergency Medical Help, Psychotherapy"
+"Low Blood Pressure, Mood Swings",Bronchitis,"Sleep properly, Wash hands frequently, Use sunscreen","Emergency Medical Help, Oxygen Therapy, Bone Marrow Transplant"
+"Dizziness, Cough, Abdominal Pain, Muscle Weakness",Parkinson’s Disease,"Avoid crowded places, Reduce caffeine intake",Eye Drops
+"Back Pain, Shortness of Breath",Lung Infection,"Sleep properly, Get proper nutrition",Antiviral Drugs
+"Dizziness, Nosebleeds, Swelling in Legs, Numbness",PCOS,"Sleep properly, Reduce salt intake","Paracetamol, Inhalers"
+"Swelling in Legs, Blurred Vision",Migraine,Wash hands frequently,Skin Creams
+"Muscle Weakness, Abdominal Pain, Sore Throat",Anemia,"Use sunscreen, Eat healthy","Radiation Therapy, Steroids"
+"Back Pain, Tremors",Arthritis,"Wash hands frequently, Exercise regularly",Steroids
+"Itchy Eyes, Blurred Vision, Sweating",Diabetes,"Avoid alcohol, Monitor blood pressure",Insulin
+"Sensitivity to Light, Muscle Weakness",Colon Cancer,Use mosquito repellent,Blood Thinners
+"Difficulty Swallowing, High Blood Pressure, Shortness of Breath, Ear Pain",Tuberculosis,"Take vaccines, Avoid bright lights, Avoid alcohol",IV Fluids
+"Tremors, Numbness",Meningitis,"Avoid crowded places, Avoid stress","Bone Marrow Transplant, Eye Drops, Antibiotics"
+"Tingling Sensation, Frequent Urination, Itchy Eyes",Liver Disease,"Reduce sugar intake, Wear a mask, Meditate daily",Cognitive Therapy
+"Chest Pain, Dry Skin, Nosebleeds, Back Pain",Arrhythmia,"Avoid alcohol, Wash hands frequently","Inhalers, Chemotherapy, Oxygen Therapy"
+"Back Pain, Runny Nose",Pneumonia,"Use an inhaler, Monitor blood pressure",Anti-inflammatory Drugs
+"Itchy Eyes, Mood Swings",Liver Disease,"Meditate daily, Use sunscreen","Vaccination, Oxygen Therapy"
+"Mood Swings, Swollen Glands",Arrhythmia,"Monitor blood pressure, Get proper nutrition, Reduce sugar intake","Hormonal Therapy, Psychotherapy, Skin Creams"
+"Fever, Mood Swings",Lupus,"Avoid allergens, Regular health checkups","Antiviral Drugs, Antifungal Medication"
+"Swollen Glands, Memory Loss, Sweating, Cough",Malaria,Maintain hygiene,Physiotherapy
+"Abdominal Pain, Dry Skin",Multiple Sclerosis,"Avoid crowded places, Use mosquito repellent, Use sunscreen","Hormonal Therapy, Skin Creams, Vaccination"
+"Excessive Thirst, Itchy Eyes",Thyroid Disease,"Exercise regularly, Maintain hygiene","Oxygen Therapy, Blood Thinners"
+"Diarrhea, Sore Throat, Sensitivity to Light",Anemia,"Monitor blood pressure, Regular health checkups, Reduce caffeine intake","Dietary Supplements, IV Fluids, Pacemaker Implantation"
+"Back Pain, Rash, Tremors",Typhoid,Avoid stress,"Physiotherapy, Dietary Supplements"
+"Nosebleeds, Memory Loss, Cough",Pancreatitis,"Regular health checkups, Reduce salt intake, Monitor blood pressure","Blood Thinners, Surgery, Vaccination"
+"Cold Hands, Numbness, Ear Pain",Malaria,"Use sunscreen, Avoid smoking","Antibiotics, Antihistamines, Antiviral Drugs"
+"Tremors, Nausea, Headache",Vertigo,"Regular health checkups, Reduce salt intake","Oral Rehydration, Antibiotics"
+"Fatigue, Rash",Hypertension,"Reduce sugar intake, Monitor blood pressure, Exercise regularly","Surgery, Steroids, Cough Syrup"
+"Blurred Vision, Memory Loss, Ear Pain",Colon Cancer,"Meditate daily, Reduce salt intake","Anti-inflammatory Drugs, Bone Marrow Transplant"
+"Chest Pain, Low Blood Pressure, Runny Nose",Diabetes,Avoid stress,"Psychotherapy, Anti-inflammatory Drugs"
+"Headache, Tremors, Weight Loss",Tuberculosis,"Sleep properly, Monitor blood pressure, Rest",Insulin
+"Headache, Dizziness, Low Blood Pressure",Meningitis,Reduce caffeine intake,"Shockwave Therapy, Insulin, IV Fluids"
+"Sneezing, Sweating, Swelling in Legs",Asthma,"Wash hands frequently, Avoid stress, Use mosquito repellent","Steroids, Antiviral Drugs, Bone Marrow Transplant"
+"Swelling in Legs, Blurred Vision, Dizziness, Ear Pain",Tuberculosis,Avoid smoking,"Antifungal Medication, Emergency Medical Help"
+"Low Blood Pressure, Sneezing, Heart Palpitations",Thyroid Disease,"Rest, Use an inhaler","Eye Drops, Insulin, Antibiotics"
+"Cough, Mood Swings, Loss of Appetite",Dengue,"Take vaccines, Regular health checkups","Paracetamol, Pacemaker Implantation, Antihistamines"
+"Blurred Vision, Fatigue, Sweating, Sensitivity to Light",Heart Attack,"Regular health checkups, Avoid bright lights, Avoid stress","Skin Creams, Hormonal Therapy, Cognitive Therapy"
+"Cold Hands, Memory Loss, Chest Pain",Arrhythmia,"Avoid crowded places, Avoid bright lights, Use mosquito repellent","Psychotherapy, Vitamin Supplements"
+"Itchy Eyes, Cough, Sneezing, Excessive Thirst",Leukemia,"Monitor blood pressure, Eat healthy","Oral Rehydration, Skin Creams, Physiotherapy"
+"Fever, Sore Throat, Frequent Urination, Back Pain",Pancreatitis,"Maintain hygiene, Avoid allergens, Sleep properly",Insulin
+"Loss of Appetite, Abdominal Pain, Swelling in Legs",Hypertension,Avoid alcohol,Painkillers
+"Swelling in Legs, Blurred Vision, Dizziness, Memory Loss",Pancreatitis,Monitor blood pressure,"Blood Thinners, Cognitive Therapy"
+"Fatigue, Abdominal Pain, Headache",Colon Cancer,"Sleep properly, Wash hands frequently",Painkillers
+"Blurred Vision, Dizziness, Chest Pain",Meningitis,"Wash hands frequently, Reduce caffeine intake, Wear a mask","Blood Thinners, Bone Marrow Transplant"
+"Abdominal Pain, Ear Pain, Dry Skin",Stroke,"Regular health checkups, Avoid bright lights",Oxygen Therapy
+"Chest Pain, Fever, Headache",Arrhythmia,Get proper nutrition,Emergency Medical Help
+"Sore Throat, Dry Skin",Vertigo,"Rest, Drink herbal tea, Wash hands frequently",Antifungal Medication
+"Heart Palpitations, Abdominal Pain",Colon Cancer,"Exercise regularly, Stay hydrated","Inhalers, Cognitive Therapy, Paracetamol"
+"High Blood Pressure, Swollen Glands, Sweating, Muscle Weakness",Arrhythmia,"Exercise regularly, Regular health checkups",IV Fluids
+"Rash, Tingling Sensation, Sore Throat, Shortness of Breath",Heart Attack,Stay hydrated,"Cough Syrup, Vitamin Supplements"
+"Chest Pain, Shortness of Breath, Swollen Glands, Loss of Appetite",Flu,Get proper nutrition,Chemotherapy
+"Swelling in Legs, Sneezing",Asthma,"Maintain hygiene, Regular health checkups",Antibiotics
+"High Blood Pressure, Chest Pain, Itchy Eyes",Thyroid Disease,"Wear a mask, Use sunscreen, Wash hands frequently",Emergency Medical Help
+"Back Pain, Nosebleeds, Memory Loss, Cold Hands",Typhoid,"Avoid alcohol, Monitor blood pressure","Antihistamines, Dietary Supplements, Physiotherapy"
+"Joint Pain, Muscle Weakness, Dry Skin",Pneumonia,"Reduce sugar intake, Take vaccines",Paracetamol
+"Cough, Weight Loss, Fatigue",Liver Disease,Use an inhaler,Painkillers
+"Frequent Urination, Fatigue, Dry Skin, Sweating",Tuberculosis,Exercise regularly,Vaccination
+"Frequent Urination, Swelling in Legs, Chest Pain, Difficulty Swallowing",Multiple Sclerosis,"Eat healthy, Use mosquito repellent","Chemotherapy, Antibiotics"
+"Memory Loss, Abdominal Pain",Food Poisoning,"Eat healthy, Avoid stress, Maintain hygiene",Cough Syrup
+"Abdominal Pain, High Blood Pressure, Shortness of Breath",Sciatica,Regular health checkups,Oral Rehydration
+"Nosebleeds, Sore Throat, Loss of Appetite",Multiple Sclerosis,"Use mosquito repellent, Meditate daily","Steroids, Emergency Medical Help, Inhalers"
+"Tremors, Diarrhea",Dengue,"Regular health checkups, Avoid allergens, Rest",Dietary Supplements
+"Fatigue, Excessive Thirst, Rash",Flu,"Meditate daily, Wear a mask","Skin Creams, Vaccination"
+"Tremors, Swelling in Legs, Joint Pain, Diarrhea",Common Cold,"Avoid alcohol, Eat healthy","Skin Creams, Cough Syrup"
+"Excessive Thirst, Runny Nose",Pneumonia,"Get proper nutrition, Drink herbal tea, Avoid smoking",Pacemaker Implantation
+"Shortness of Breath, Cold Hands",Vertigo,Reduce sugar intake,Eye Drops
+"Memory Loss, Tremors, Low Blood Pressure, Headache",Heart Attack,Sleep properly,"Oxygen Therapy, Bone Marrow Transplant, Paracetamol"
+"Tremors, Back Pain, Blurred Vision",Stroke,Use mosquito repellent,"Blood Thinners, Oxygen Therapy, IV Fluids"
+"Itchy Eyes, Joint Pain, Nausea, Back Pain",Liver Disease,Use mosquito repellent,"Steroids, Pacemaker Implantation, Antiviral Drugs"
+"Abdominal Pain, Muscle Weakness",Malaria,"Eat healthy, Reduce salt intake, Stay hydrated","Shockwave Therapy, Cognitive Therapy, Radiation Therapy"
+"Swollen Glands, Runny Nose, Joint Pain",Stroke,"Regular health checkups, Drink herbal tea",IV Fluids
+"Fatigue, Diarrhea",Meningitis,"Exercise regularly, Maintain hygiene, Avoid smoking",IV Fluids
+"Nausea, Joint Pain, Sore Throat, Heart Palpitations",Thyroid Disease,"Use an inhaler, Regular health checkups","Chemotherapy, Psychotherapy, Cognitive Therapy"
+"Fatigue, Sneezing, Sensitivity to Light, Heart Palpitations",Asthma,"Drink herbal tea, Monitor blood pressure",Oral Rehydration
+"Swollen Glands, Loss of Appetite, Memory Loss",Arrhythmia,Reduce sugar intake,Blood Thinners
+"Difficulty Swallowing, Headache, Mood Swings",Epilepsy,Reduce salt intake,"Antifungal Medication, Eye Drops, IV Fluids"
+"Cold Hands, Fever",Colon Cancer,"Avoid bright lights, Rest","Emergency Medical Help, Inhalers, Insulin"
+"Heart Palpitations, High Blood Pressure, Loss of Appetite",Arrhythmia,Get proper nutrition,Oxygen Therapy
+"Itchy Eyes, Sensitivity to Light, Cough, Muscle Weakness",Food Poisoning,Maintain hygiene,"Vaccination, Anti-inflammatory Drugs, Hormonal Therapy"
+"Swollen Glands, Cold Hands, Rash",Sinusitis,"Drink herbal tea, Eat healthy, Use an inhaler","Radiation Therapy, Antiviral Drugs, Bone Marrow Transplant"
+"Weight Loss, Mood Swings",Leukemia,Avoid bright lights,"Cough Syrup, Chemotherapy"
+"Diarrhea, Swollen Glands",Lupus,"Rest, Regular health checkups, Wash hands frequently","Cognitive Therapy, Surgery"
+"Difficulty Swallowing, Frequent Urination, Memory Loss",Diabetes,"Avoid stress, Sleep properly","Antiviral Drugs, Oxygen Therapy"
+"Sore Throat, Runny Nose, Shortness of Breath",Hepatitis,Avoid crowded places,"Cognitive Therapy, Surgery, Antihistamines"
+"Chest Pain, Nausea",Eczema,Reduce caffeine intake,"Paracetamol, Anti-inflammatory Drugs"
+"Excessive Thirst, Fatigue",Typhoid,"Stay hydrated, Use an inhaler, Use sunscreen","Eye Drops, Surgery"
+"Sneezing, Abdominal Pain",Tuberculosis,"Rest, Maintain hygiene","Vitamin Supplements, Hormonal Therapy, Emergency Medical Help"
+"Back Pain, Sensitivity to Light, Dizziness, Nosebleeds",Arrhythmia,"Wash hands frequently, Regular health checkups","Painkillers, Psychotherapy"
+"Nosebleeds, Blurred Vision, Shortness of Breath",Asthma,Meditate daily,Oxygen Therapy
+"Joint Pain, Cold Hands, Headache, Rash",Lupus,"Wash hands frequently, Avoid crowded places, Use mosquito repellent","Vitamin Supplements, Vaccination"
+"Nosebleeds, Itchy Eyes, Blurred Vision, Loss of Appetite",Kidney Stones,"Reduce salt intake, Rest, Avoid smoking",Skin Creams
+"Chest Pain, Diarrhea",Multiple Sclerosis,"Avoid crowded places, Drink herbal tea, Reduce sugar intake",Surgery
+"Back Pain, Runny Nose, Nosebleeds",Multiple Sclerosis,"Reduce sugar intake, Avoid stress","Painkillers, Oral Rehydration, Antiviral Drugs"
+"Swollen Glands, Mood Swings",Pneumonia,"Reduce salt intake, Avoid smoking, Use an inhaler",Eye Drops
+"Excessive Thirst, Rash, Swelling in Legs, Sore Throat",Lupus,Avoid allergens,Painkillers
+"Tingling Sensation, High Blood Pressure, Headache, Low Blood Pressure",Sciatica,"Use mosquito repellent, Reduce sugar intake","Radiation Therapy, IV Fluids, Shockwave Therapy"
+"Itchy Eyes, Muscle Weakness, Swelling in Legs",Food Poisoning,Meditate daily,Radiation Therapy
+"Fever, Blurred Vision",Anemia,"Rest, Avoid crowded places, Use an inhaler","Physiotherapy, IV Fluids, Antibiotics"
+"Abdominal Pain, Rash, Loss of Appetite, Itchy Eyes",Migraine,"Avoid allergens, Reduce caffeine intake","Antiviral Drugs, Oral Rehydration, Surgery"
+"Dry Skin, Sensitivity to Light, Excessive Thirst",Arrhythmia,"Stay hydrated, Rest, Use an inhaler",Cough Syrup
+"Nausea, Sweating, Dizziness, Difficulty Swallowing",Pneumonia,"Wash hands frequently, Avoid stress","Cough Syrup, Oxygen Therapy"
+"Nausea, Back Pain, Abdominal Pain, High Blood Pressure",Hepatitis,"Avoid allergens, Eat healthy, Meditate daily",Dietary Supplements
+"Excessive Thirst, Sweating, Heart Palpitations",Colon Cancer,"Wear a mask, Reduce salt intake, Maintain hygiene",Painkillers
+"Dizziness, Muscle Weakness, Sneezing",Lupus,Take vaccines,"Paracetamol, Skin Creams, Anti-inflammatory Drugs"
+"Rash, Tremors",Mental Stress,"Eat healthy, Take vaccines",Cognitive Therapy
+"Dizziness, Dry Skin",Typhoid,Avoid allergens,"Shockwave Therapy, Antihistamines"
+"Fever, Dizziness, Ear Pain, Runny Nose",Eczema,"Avoid bright lights, Wear a mask, Reduce sugar intake",Cognitive Therapy
+"Tremors, Muscle Weakness, Chest Pain",Typhoid,"Use mosquito repellent, Regular health checkups","Psychotherapy, Inhalers, Chemotherapy"
+"Runny Nose, Cold Hands",Thyroid Disease,"Wash hands frequently, Take vaccines","Cognitive Therapy, Chemotherapy, Inhalers"
+"Swelling in Legs, Tremors",Heart Attack,"Avoid bright lights, Exercise regularly, Rest","Vitamin Supplements, Antifungal Medication"
+"Loss of Appetite, Nausea",Pancreatitis,"Stay hydrated, Avoid stress",Shockwave Therapy
+"Sweating, Ear Pain, Tingling Sensation",Flu,"Avoid crowded places, Sleep properly, Use sunscreen","Radiation Therapy, Pacemaker Implantation, Steroids"
+"Diarrhea, Runny Nose, Mood Swings, Swollen Glands",Mental Stress,"Drink herbal tea, Wear a mask, Reduce sugar intake",Dietary Supplements
+"Numbness, Sensitivity to Light, Nausea",Common Cold,Drink herbal tea,"Antibiotics, Pacemaker Implantation, Steroids"
+"Heart Palpitations, Runny Nose, Abdominal Pain, Itchy Eyes",PCOS,Maintain hygiene,Oral Rehydration
+"Mood Swings, Weight Loss",Arrhythmia,"Drink herbal tea, Eat healthy","Antiviral Drugs, Oral Rehydration, Radiation Therapy"
+"Sweating, Chest Pain, Rash, Dry Skin",Diabetes,Avoid alcohol,Chemotherapy
+"Headache, Cold Hands, Muscle Weakness",Pneumonia,"Get proper nutrition, Meditate daily, Avoid crowded places",Vaccination
+"Shortness of Breath, Swollen Glands, Joint Pain",Brain Tumor,"Meditate daily, Use mosquito repellent, Regular health checkups","Pacemaker Implantation, Cognitive Therapy"
+"Nosebleeds, Heart Palpitations, Frequent Urination, Loss of Appetite",Hepatitis,Wash hands frequently,Antifungal Medication
+"Memory Loss, Tingling Sensation, Loss of Appetite",Eczema,"Sleep properly, Reduce salt intake","Shockwave Therapy, Blood Thinners"
+"Fever, Chest Pain, Swollen Glands",Brain Tumor,"Wash hands frequently, Reduce salt intake","Radiation Therapy, Shockwave Therapy"
+"Loss of Appetite, Cough",Kidney Stones,"Regular health checkups, Avoid alcohol",Painkillers
+"Low Blood Pressure, Runny Nose, Frequent Urination, Ear Pain",Flu,Rest,"Insulin, Inhalers"
+"Back Pain, Dry Skin",Parkinson’s Disease,"Regular health checkups, Avoid crowded places, Meditate daily","Antiviral Drugs, Chemotherapy"
+"Tingling Sensation, Numbness, Ear Pain, Chest Pain",Anemia,"Wear a mask, Reduce caffeine intake, Wash hands frequently","Dietary Supplements, Psychotherapy"
+"Heart Palpitations, Ear Pain",Lupus,"Reduce sugar intake, Avoid allergens, Maintain hygiene","Physiotherapy, Antihistamines"
+"Difficulty Swallowing, Headache, Dry Skin",Sciatica,"Eat healthy, Maintain hygiene, Regular health checkups","Antihistamines, Emergency Medical Help"
+"Swollen Glands, Frequent Urination, Dry Skin, Excessive Thirst",Eczema,Rest,"Cough Syrup, Dietary Supplements"
+"Low Blood Pressure, Loss of Appetite, Swelling in Legs",Lupus,Avoid smoking,"Steroids, Bone Marrow Transplant"
+"Low Blood Pressure, Tingling Sensation",Tuberculosis,"Monitor blood pressure, Eat healthy, Maintain hygiene","Oxygen Therapy, Pacemaker Implantation"
+"Abdominal Pain, Fatigue, Cough",Dengue,"Reduce salt intake, Meditate daily, Avoid stress","Surgery, Pacemaker Implantation"
+"Fatigue, Cold Hands",Epilepsy,"Avoid alcohol, Rest","Oxygen Therapy, Oral Rehydration"
+"Shortness of Breath, Sneezing",Migraine,"Use mosquito repellent, Wash hands frequently, Eat healthy",Hormonal Therapy
+"Sore Throat, Loss of Appetite, Cold Hands",Epilepsy,Get proper nutrition,"Steroids, Cognitive Therapy"
+"High Blood Pressure, Heart Palpitations, Cold Hands, Back Pain",Anemia,"Reduce salt intake, Meditate daily","Oxygen Therapy, Cognitive Therapy, Psychotherapy"
+"Loss of Appetite, Mood Swings",Stroke,Stay hydrated,"Emergency Medical Help, Inhalers, Antibiotics"
+"Swollen Glands, Fever, Fatigue, Headache",PCOS,Reduce salt intake,"Physiotherapy, Skin Creams"
+"Rash, Sneezing, Difficulty Swallowing",Migraine,"Regular health checkups, Rest",Vaccination
+"Fever, Sore Throat, Swollen Glands, Excessive Thirst",Heart Attack,"Wear a mask, Use an inhaler, Use sunscreen","Oxygen Therapy, Vitamin Supplements"
+"Cold Hands, Muscle Weakness, Swollen Glands",Anemia,Wash hands frequently,"Antifungal Medication, Shockwave Therapy, Antibiotics"
+"Cough, Dizziness, Back Pain, Frequent Urination",Mental Stress,Regular health checkups,"Radiation Therapy, Eye Drops, Surgery"
+"Sore Throat, Ear Pain",Sciatica,"Regular health checkups, Meditate daily, Reduce caffeine intake","Steroids, Antibiotics"
+"Sweating, Blurred Vision, Nosebleeds",Heart Attack,"Use sunscreen, Avoid bright lights, Stay hydrated","Emergency Medical Help, Insulin"
+"Headache, Memory Loss, Low Blood Pressure",Arrhythmia,"Wear a mask, Stay hydrated","Blood Thinners, Psychotherapy, Antihistamines"
+"Sneezing, Tremors, Mood Swings, Difficulty Swallowing",Liver Disease,"Monitor blood pressure, Avoid alcohol",Eye Drops
+"Swollen Glands, Abdominal Pain",Diabetes,"Use an inhaler, Reduce salt intake",Anti-inflammatory Drugs
+"Back Pain, Difficulty Swallowing, Muscle Weakness, Diarrhea",Bronchitis,"Avoid stress, Exercise regularly, Reduce caffeine intake",Emergency Medical Help
+"Tremors, Sore Throat",Parkinson’s Disease,"Avoid bright lights, Take vaccines, Rest",Pacemaker Implantation
+"Diarrhea, Weight Loss, Nosebleeds, Ear Pain",Lupus,Use sunscreen,IV Fluids
+"Excessive Thirst, Ear Pain, Rash, Swelling in Legs",Dengue,"Use sunscreen, Take vaccines, Monitor blood pressure",Skin Creams
+"Ear Pain, Runny Nose, Itchy Eyes, Nosebleeds",Arrhythmia,"Use mosquito repellent, Wear a mask, Get proper nutrition","Radiation Therapy, Cognitive Therapy, Skin Creams"
+"Cough, Fatigue, Chest Pain",Epilepsy,"Exercise regularly, Avoid crowded places","Anti-inflammatory Drugs, Pacemaker Implantation, Skin Creams"
+"Nosebleeds, Sensitivity to Light, High Blood Pressure, Tingling Sensation",Stroke,"Use sunscreen, Rest, Sleep properly","Oxygen Therapy, Emergency Medical Help"
+"Weight Loss, Tremors, Headache, Abdominal Pain",Arrhythmia,"Rest, Drink herbal tea","Oral Rehydration, Chemotherapy, Surgery"
+"Dry Skin, Diarrhea, Tingling Sensation, High Blood Pressure",Bronchitis,"Monitor blood pressure, Wear a mask, Reduce caffeine intake","Vaccination, Dietary Supplements, Anti-inflammatory Drugs"
+"Shortness of Breath, Weight Loss, Sore Throat",Stroke,"Avoid stress, Stay hydrated",Eye Drops
+"Heart Palpitations, Mood Swings, High Blood Pressure",Typhoid,Drink herbal tea,"Antihistamines, Cough Syrup, Vitamin Supplements"
+"Sneezing, High Blood Pressure, Sore Throat, Headache",Mental Stress,"Avoid smoking, Rest, Stay hydrated","Oxygen Therapy, Emergency Medical Help"
+"Numbness, Mood Swings",Lung Infection,Use mosquito repellent,"Oxygen Therapy, Shockwave Therapy, Emergency Medical Help"
+"Back Pain, Fever, Dizziness, Cold Hands",Migraine,"Wash hands frequently, Eat healthy, Monitor blood pressure","Steroids, Painkillers, Bone Marrow Transplant"
+"Numbness, Tremors, Swelling in Legs",Arthritis,"Avoid alcohol, Reduce caffeine intake, Sleep properly","Antihistamines, Vitamin Supplements, Eye Drops"
+"Cold Hands, Rash, Swelling in Legs",Typhoid,"Avoid allergens, Exercise regularly, Avoid bright lights","Anti-inflammatory Drugs, Emergency Medical Help"
+"Tremors, Heart Palpitations",Mental Stress,"Avoid bright lights, Rest","Blood Thinners, Paracetamol"
+"High Blood Pressure, Ear Pain",Kidney Stones,"Avoid alcohol, Avoid allergens","Hormonal Therapy, Chemotherapy, Paracetamol"
+"Joint Pain, Shortness of Breath",Arthritis,"Maintain hygiene, Drink herbal tea",Paracetamol
+"Cold Hands, Shortness of Breath, Tremors, Ear Pain",Lupus,Exercise regularly,"Inhalers, Emergency Medical Help"
+"Tremors, Nausea, Sweating",Multiple Sclerosis,"Use an inhaler, Avoid stress","Cognitive Therapy, Radiation Therapy"
+"Difficulty Swallowing, Nosebleeds, Nausea",Brain Tumor,"Monitor blood pressure, Reduce caffeine intake","Oxygen Therapy, Skin Creams"
+"Cough, Fatigue, Nosebleeds",Sinusitis,Avoid smoking,"Antibiotics, IV Fluids"
+"Rash, Numbness, Tingling Sensation, Swollen Glands",Diabetes,"Use sunscreen, Avoid alcohol, Reduce salt intake",Physiotherapy
+"Sweating, Back Pain",PCOS,"Avoid crowded places, Rest","Surgery, Pacemaker Implantation"
+"Numbness, Sneezing, Frequent Urination, Dizziness",Common Cold,"Rest, Monitor blood pressure, Stay hydrated",Pacemaker Implantation
+"Swollen Glands, Shortness of Breath, Muscle Weakness",Food Poisoning,"Get proper nutrition, Eat healthy","Paracetamol, Cough Syrup, Blood Thinners"
+"Nausea, Rash, Swelling in Legs, Blurred Vision",Lung Infection,Meditate daily,"Surgery, Radiation Therapy"
+"Sweating, Ear Pain, Heart Palpitations",Sinusitis,"Rest, Avoid alcohol, Eat healthy","Blood Thinners, Steroids, Antifungal Medication"
+"Runny Nose, Cold Hands",Leukemia,Use an inhaler,Shockwave Therapy
+"Chest Pain, Ear Pain",Liver Disease,"Stay hydrated, Sleep properly",Eye Drops
+"Muscle Weakness, Sweating, Tremors",Common Cold,"Stay hydrated, Wear a mask, Use sunscreen","Eye Drops, Oral Rehydration"
+"Shortness of Breath, Difficulty Swallowing, Weight Loss, Diarrhea",Anemia,"Avoid smoking, Use sunscreen, Monitor blood pressure",Oral Rehydration
+"Mood Swings, Heart Palpitations, Nosebleeds",Asthma,"Take vaccines, Reduce salt intake, Monitor blood pressure","Psychotherapy, Oxygen Therapy, Chemotherapy"
+"Loss of Appetite, Back Pain",Malaria,"Regular health checkups, Get proper nutrition, Rest",Antiviral Drugs
+"Nausea, Cough, Excessive Thirst",Glaucoma,"Take vaccines, Stay hydrated, Meditate daily","Blood Thinners, Chemotherapy, Pacemaker Implantation"
+"Sweating, High Blood Pressure",Eczema,Get proper nutrition,"Radiation Therapy, Emergency Medical Help"
+"Dry Skin, Rash, Tremors, Diarrhea",Malaria,"Avoid smoking, Wash hands frequently",Cough Syrup
+"High Blood Pressure, Sneezing, Dizziness",Flu,Use an inhaler,"Antifungal Medication, Steroids, Painkillers"
+"Loss of Appetite, High Blood Pressure, Mood Swings, Swollen Glands",Tuberculosis,Sleep properly,"Radiation Therapy, Vaccination, Paracetamol"
+"Shortness of Breath, Chest Pain, Ear Pain, Muscle Weakness",Diabetes,"Use sunscreen, Eat healthy, Wash hands frequently","Steroids, Bone Marrow Transplant"
+"Excessive Thirst, Fatigue, Swollen Glands",Leukemia,"Rest, Avoid smoking",Chemotherapy
+"Abdominal Pain, Frequent Urination",Parkinson’s Disease,Reduce sugar intake,Hormonal Therapy
+"Joint Pain, Heart Palpitations",Asthma,"Avoid allergens, Stay hydrated","Bone Marrow Transplant, Inhalers, Emergency Medical Help"
+"Dizziness, Mood Swings, Abdominal Pain, Runny Nose",Migraine,"Regular health checkups, Meditate daily, Reduce salt intake","Antifungal Medication, Radiation Therapy, Antiviral Drugs"
+"Joint Pain, Sore Throat, Fever, High Blood Pressure",Pneumonia,"Take vaccines, Regular health checkups, Meditate daily",Steroids
+"Back Pain, Sensitivity to Light, Dizziness",PCOS,Avoid alcohol,"Psychotherapy, Hormonal Therapy"
+"Low Blood Pressure, Mood Swings, Ear Pain, Nosebleeds",Brain Tumor,Wash hands frequently,"Inhalers, Oral Rehydration, Vaccination"
+"Back Pain, Cough, Heart Palpitations",Hypertension,Use sunscreen,Pacemaker Implantation
+"Loss of Appetite, Dry Skin, Cough",Liver Disease,"Drink herbal tea, Wash hands frequently","Antihistamines, Surgery, Shockwave Therapy"
+"Nausea, Mood Swings, Sensitivity to Light",Anemia,Get proper nutrition,"Vaccination, Pacemaker Implantation"
+"Sensitivity to Light, Runny Nose",Glaucoma,Reduce caffeine intake,"Pacemaker Implantation, Antihistamines"
+"Shortness of Breath, Runny Nose, Ear Pain, Loss of Appetite",Arthritis,"Avoid stress, Take vaccines, Regular health checkups","Steroids, Antiviral Drugs"
+"Rash, Dry Skin, Sweating",Sinusitis,Monitor blood pressure,"Dietary Supplements, Shockwave Therapy, Surgery"
+"Numbness, Dry Skin, Ear Pain",Migraine,Drink herbal tea,"Emergency Medical Help, Surgery"
+"Rash, Blurred Vision, Nausea, Headache",Kidney Stones,Stay hydrated,Oral Rehydration
+"Swelling in Legs, Nosebleeds, Loss of Appetite",Bronchitis,"Avoid smoking, Meditate daily, Avoid stress","Chemotherapy, Inhalers"
+"Joint Pain, Shortness of Breath",Parkinson’s Disease,"Meditate daily, Drink herbal tea",Psychotherapy
+"Sensitivity to Light, Back Pain",Colon Cancer,"Meditate daily, Stay hydrated, Use mosquito repellent","Oral Rehydration, Bone Marrow Transplant, Antibiotics"
+"Swollen Glands, Rash, Cold Hands",Liver Disease,"Avoid allergens, Use an inhaler","Skin Creams, Hormonal Therapy"
+"Runny Nose, Difficulty Swallowing",Dengue,"Rest, Avoid allergens","Emergency Medical Help, Anti-inflammatory Drugs, Oral Rehydration"
+"Cold Hands, Mood Swings",Eczema,Stay hydrated,"Vaccination, Eye Drops"
+"Sore Throat, Chest Pain",Bronchitis,"Use an inhaler, Eat healthy","Bone Marrow Transplant, IV Fluids"
+"Mood Swings, Nosebleeds",Arthritis,"Stay hydrated, Use mosquito repellent","Chemotherapy, Vitamin Supplements, Steroids"
+"Cough, Itchy Eyes",Diabetes,"Avoid allergens, Use sunscreen",Physiotherapy
+"Ear Pain, Headache",Tuberculosis,"Drink herbal tea, Reduce sugar intake, Exercise regularly",Paracetamol
+"Blurred Vision, Fatigue, Cough",Colon Cancer,"Avoid alcohol, Reduce salt intake, Maintain hygiene","Bone Marrow Transplant, Emergency Medical Help"
+"High Blood Pressure, Frequent Urination, Tremors",Typhoid,"Exercise regularly, Avoid allergens, Avoid crowded places",Steroids
+"Swollen Glands, Tingling Sensation",Parkinson’s Disease,"Drink herbal tea, Avoid crowded places, Regular health checkups","IV Fluids, Shockwave Therapy"
+"Headache, Dizziness",Parkinson’s Disease,"Exercise regularly, Avoid bright lights, Drink herbal tea","Steroids, Surgery"
+"High Blood Pressure, Itchy Eyes, Abdominal Pain",Colon Cancer,"Sleep properly, Get proper nutrition","Psychotherapy, Antibiotics"
+"Ear Pain, Blurred Vision, Cold Hands, Abdominal Pain",PCOS,Meditate daily,"Insulin, Anti-inflammatory Drugs, Steroids"
+"Muscle Weakness, Fatigue, Diarrhea",Migraine,"Avoid bright lights, Use an inhaler","Cognitive Therapy, Pacemaker Implantation, Insulin"
+"Numbness, Back Pain",Hypertension,Wash hands frequently,"Pacemaker Implantation, Cough Syrup"
+"Swelling in Legs, Itchy Eyes, Joint Pain",Mental Stress,"Avoid allergens, Reduce salt intake","Chemotherapy, Steroids"
+"Diarrhea, Muscle Weakness, Mood Swings, Joint Pain",PCOS,"Regular health checkups, Avoid allergens","Surgery, Hormonal Therapy"
+"Runny Nose, Nausea, Shortness of Breath, Nosebleeds",Heart Attack,"Avoid bright lights, Take vaccines","Oral Rehydration, Antihistamines, Radiation Therapy"
+"Tingling Sensation, Heart Palpitations",Food Poisoning,Wash hands frequently,"Vaccination, Antibiotics, Skin Creams"
+"High Blood Pressure, Memory Loss, Excessive Thirst",Pancreatitis,"Regular health checkups, Exercise regularly, Avoid allergens","Painkillers, Dietary Supplements"
+"Diarrhea, Sweating",Flu,Rest,"Cough Syrup, Insulin, Cognitive Therapy"
+"Shortness of Breath, Difficulty Swallowing, Cold Hands",Stroke,"Use sunscreen, Wear a mask","IV Fluids, Eye Drops"
+"Abdominal Pain, Swollen Glands",Hepatitis,"Use an inhaler, Reduce salt intake, Reduce caffeine intake","Psychotherapy, Cognitive Therapy"
+"Dry Skin, Sweating, Chest Pain, Muscle Weakness",Parkinson’s Disease,Avoid smoking,"Oral Rehydration, Physiotherapy"
+"Excessive Thirst, Nosebleeds, Blurred Vision, Swollen Glands",Leukemia,"Get proper nutrition, Meditate daily","Paracetamol, Antihistamines"
+"Dry Skin, Mood Swings, Headache",Epilepsy,Avoid allergens,"Oral Rehydration, IV Fluids"
+"Numbness, Muscle Weakness, Cough",Thyroid Disease,Take vaccines,"Blood Thinners, Inhalers"
+"Tingling Sensation, Nosebleeds, Diarrhea",Sinusitis,Maintain hygiene,"Bone Marrow Transplant, Dietary Supplements, Chemotherapy"
+"Nausea, Mood Swings, Joint Pain",Eczema,"Get proper nutrition, Use an inhaler, Rest",Vaccination
+"Sore Throat, Abdominal Pain, Memory Loss, Nosebleeds",Pneumonia,"Meditate daily, Exercise regularly",Surgery
+"Shortness of Breath, Joint Pain, Frequent Urination, Tremors",Lupus,Drink herbal tea,"Pacemaker Implantation, Oral Rehydration"
+"Cold Hands, Tingling Sensation, Nausea",Epilepsy,"Avoid alcohol, Reduce caffeine intake",Cough Syrup
+"Muscle Weakness, Fatigue, Loss of Appetite, Cough",Common Cold,"Avoid alcohol, Avoid allergens",Radiation Therapy
+"Runny Nose, Numbness",PCOS,"Use an inhaler, Monitor blood pressure","Oral Rehydration, Insulin"
+"Cold Hands, Headache, Abdominal Pain, Mood Swings",Stroke,Reduce caffeine intake,"Skin Creams, Hormonal Therapy, Painkillers"
+"Dry Skin, Headache",Colon Cancer,"Use mosquito repellent, Use sunscreen, Monitor blood pressure",Cough Syrup
+"Difficulty Swallowing, Rash",Thyroid Disease,"Sleep properly, Rest","Bone Marrow Transplant, Vitamin Supplements, Dietary Supplements"
+"Chest Pain, Weight Loss",Flu,"Reduce sugar intake, Meditate daily, Exercise regularly",Shockwave Therapy
+"Excessive Thirst, Sensitivity to Light, Dry Skin, Chest Pain",Lupus,"Use an inhaler, Drink herbal tea, Wear a mask",Dietary Supplements
+"Shortness of Breath, Runny Nose, Joint Pain",PCOS,"Reduce caffeine intake, Drink herbal tea","Chemotherapy, Cognitive Therapy, Inhalers"
+"Diarrhea, Runny Nose, Headache",Dengue,Avoid smoking,"Hormonal Therapy, IV Fluids, Surgery"
+"Excessive Thirst, Fever",Tuberculosis,Monitor blood pressure,Paracetamol
+"Numbness, Diarrhea, Headache",Diabetes,"Drink herbal tea, Wash hands frequently, Reduce caffeine intake","Pacemaker Implantation, Insulin, Radiation Therapy"
+"Sensitivity to Light, Swelling in Legs",Arrhythmia,"Wear a mask, Take vaccines, Reduce sugar intake","Skin Creams, Inhalers"
+"Ear Pain, Numbness, Headache, Dizziness",Epilepsy,Maintain hygiene,"Antiviral Drugs, Cough Syrup, Bone Marrow Transplant"
+"Heart Palpitations, Chest Pain, Nosebleeds, Rash",Asthma,Reduce caffeine intake,"Paracetamol, Cough Syrup"
+"Mood Swings, Weight Loss, Abdominal Pain",Leukemia,"Reduce caffeine intake, Reduce sugar intake, Get proper nutrition",Psychotherapy
+"Itchy Eyes, Swelling in Legs, Headache, Ear Pain",Epilepsy,Monitor blood pressure,Cognitive Therapy
+"Cough, Sore Throat, Chest Pain",Stroke,"Use mosquito repellent, Regular health checkups",Blood Thinners
+"Runny Nose, Back Pain",Brain Tumor,"Avoid smoking, Reduce salt intake","Dietary Supplements, Chemotherapy"
+"Sneezing, Sensitivity to Light, Memory Loss",Thyroid Disease,"Use sunscreen, Get proper nutrition","Shockwave Therapy, Radiation Therapy, Surgery"
+"Memory Loss, Excessive Thirst",Epilepsy,"Avoid crowded places, Use mosquito repellent, Use sunscreen","Antihistamines, Vaccination, Anti-inflammatory Drugs"
+"Swollen Glands, Heart Palpitations",Vertigo,"Use mosquito repellent, Stay hydrated, Regular health checkups",Cognitive Therapy
+"Low Blood Pressure, Swelling in Legs, Mood Swings, Sensitivity to Light",Typhoid,"Stay hydrated, Monitor blood pressure, Avoid alcohol","Chemotherapy, Eye Drops, Vaccination"
+"Weight Loss, Swelling in Legs, Cough",Food Poisoning,"Stay hydrated, Meditate daily, Use an inhaler","Cough Syrup, Psychotherapy, Oral Rehydration"
+"Back Pain, Nosebleeds, Excessive Thirst, Tingling Sensation",Vertigo,"Sleep properly, Use an inhaler",Radiation Therapy
+"Swollen Glands, High Blood Pressure, Difficulty Swallowing, Blurred Vision",Heart Attack,Take vaccines,Pacemaker Implantation
+"Abdominal Pain, Memory Loss",Sciatica,"Wash hands frequently, Use an inhaler, Take vaccines","Surgery, Hormonal Therapy"
+"Blurred Vision, Difficulty Swallowing, Sneezing, Shortness of Breath",Vertigo,"Use sunscreen, Wash hands frequently","Vaccination, Hormonal Therapy, Chemotherapy"
+"Runny Nose, Nosebleeds, Fatigue, Swelling in Legs",Typhoid,"Drink herbal tea, Meditate daily, Get proper nutrition",Antihistamines
+"Abdominal Pain, Fatigue, Sore Throat",Hepatitis,"Monitor blood pressure, Use sunscreen",Antiviral Drugs
+"Tingling Sensation, Fatigue",Asthma,"Stay hydrated, Sleep properly, Eat healthy","Antihistamines, Vaccination, Chemotherapy"
+"Nosebleeds, Ear Pain",Vertigo,"Meditate daily, Regular health checkups","Antifungal Medication, Insulin, Emergency Medical Help"
+"Diarrhea, Itchy Eyes, Swelling in Legs, Sore Throat",Glaucoma,"Exercise regularly, Avoid bright lights, Drink herbal tea",Physiotherapy
+"Shortness of Breath, Back Pain, Joint Pain, Sneezing",Migraine,Use sunscreen,"Shockwave Therapy, Cough Syrup, Chemotherapy"
+"Sore Throat, Ear Pain, Chest Pain",Hepatitis,"Maintain hygiene, Reduce sugar intake, Monitor blood pressure","Insulin, Emergency Medical Help"
+"Headache, Swollen Glands, Loss of Appetite, Memory Loss",Parkinson’s Disease,"Eat healthy, Reduce caffeine intake",Skin Creams
+"Nausea, Chest Pain, Tingling Sensation, Runny Nose",Bronchitis,"Avoid alcohol, Regular health checkups, Drink herbal tea",Cognitive Therapy
+"Joint Pain, Memory Loss",Glaucoma,"Avoid smoking, Avoid allergens","Cognitive Therapy, Emergency Medical Help, Pacemaker Implantation"
+"Rash, Numbness, Back Pain",Vertigo,"Wash hands frequently, Avoid stress","Cough Syrup, Blood Thinners, Dietary Supplements"
+"Mood Swings, Dizziness",Pancreatitis,"Rest, Avoid crowded places, Stay hydrated","Anti-inflammatory Drugs, Antibiotics, Bone Marrow Transplant"
+"Joint Pain, Tremors",Kidney Stones,"Stay hydrated, Avoid stress","Steroids, Vitamin Supplements, Antihistamines"
+"Sweating, Nosebleeds",Stroke,"Eat healthy, Take vaccines, Use mosquito repellent",Eye Drops
+"Difficulty Swallowing, Muscle Weakness, Runny Nose, Shortness of Breath",Hypertension,"Avoid smoking, Rest, Maintain hygiene",Insulin
+"Weight Loss, Shortness of Breath, Fatigue, Sore Throat",Lupus,Avoid alcohol,"Oxygen Therapy, Antibiotics, Vitamin Supplements"
+"Sweating, Difficulty Swallowing, Cough, Weight Loss",Sciatica,Sleep properly,Surgery
+"Cold Hands, Back Pain, Abdominal Pain",Sciatica,"Maintain hygiene, Avoid bright lights, Reduce sugar intake","Antifungal Medication, Inhalers, Shockwave Therapy"
+"Nausea, Chest Pain",Sciatica,"Wash hands frequently, Stay hydrated","Anti-inflammatory Drugs, Surgery"
+"Back Pain, Headache, Tremors, Runny Nose",Asthma,"Use an inhaler, Wash hands frequently, Drink herbal tea","Cough Syrup, Physiotherapy, Paracetamol"
+"Sore Throat, Tremors, Dizziness",Sinusitis,Avoid allergens,Hormonal Therapy
+"Joint Pain, Low Blood Pressure, Shortness of Breath, Chest Pain",Malaria,"Maintain hygiene, Use mosquito repellent, Get proper nutrition",Vaccination
+"Runny Nose, Dry Skin",Asthma,"Avoid alcohol, Avoid stress, Rest","Hormonal Therapy, Paracetamol"
+"Muscle Weakness, Tingling Sensation, Memory Loss, Runny Nose",Arthritis,"Wash hands frequently, Meditate daily","Steroids, Antibiotics"
+"Swelling in Legs, Low Blood Pressure, Fever, Cough",Sinusitis,"Meditate daily, Eat healthy","Painkillers, Radiation Therapy"
+"Cold Hands, Memory Loss",Eczema,"Maintain hygiene, Get proper nutrition",Bone Marrow Transplant
+"Heart Palpitations, Swelling in Legs, Frequent Urination, Swollen Glands",Arthritis,"Wash hands frequently, Avoid stress",Dietary Supplements
+"Abdominal Pain, Excessive Thirst",Migraine,"Drink herbal tea, Stay hydrated",Vitamin Supplements
+"Frequent Urination, Loss of Appetite",Multiple Sclerosis,"Avoid smoking, Avoid stress",Skin Creams
+"Dry Skin, Weight Loss",Epilepsy,"Use mosquito repellent, Stay hydrated, Regular health checkups","Emergency Medical Help, Dietary Supplements, Hormonal Therapy"
+"High Blood Pressure, Diarrhea",Colon Cancer,Regular health checkups,"Anti-inflammatory Drugs, Chemotherapy, Paracetamol"
+"Joint Pain, Chest Pain, Runny Nose, Heart Palpitations",Typhoid,"Use an inhaler, Eat healthy, Avoid allergens",Inhalers
+"Low Blood Pressure, Excessive Thirst, Sensitivity to Light",Asthma,"Use an inhaler, Avoid crowded places",Paracetamol
+"Mood Swings, Joint Pain, Sneezing, Swollen Glands",Asthma,Use an inhaler,"Antihistamines, Vitamin Supplements, Eye Drops"
+"Ear Pain, Swelling in Legs, Runny Nose",Asthma,Meditate daily,Surgery
+"Heart Palpitations, Cough, Mood Swings",Sciatica,"Avoid alcohol, Use an inhaler","Paracetamol, Vaccination"
+"Heart Palpitations, Diarrhea, Swelling in Legs",Migraine,"Avoid allergens, Use sunscreen",Antibiotics
+"Muscle Weakness, Numbness, Dizziness",Common Cold,Take vaccines,Insulin
+"Tremors, Tingling Sensation, Swelling in Legs",Colon Cancer,"Drink herbal tea, Meditate daily, Use sunscreen","Surgery, Vitamin Supplements"
+"Nausea, Heart Palpitations, Sore Throat",Brain Tumor,"Wash hands frequently, Drink herbal tea","Paracetamol, Insulin"
+"Dry Skin, Dizziness, Sneezing",Anemia,"Avoid stress, Use sunscreen, Avoid crowded places","Emergency Medical Help, Bone Marrow Transplant"
+"Itchy Eyes, Shortness of Breath, Chest Pain",Multiple Sclerosis,"Drink herbal tea, Wash hands frequently",Steroids
+"Fever, Sweating",Lung Infection,Reduce salt intake,Eye Drops
+"Joint Pain, Nosebleeds, Dry Skin",Arrhythmia,"Sleep properly, Avoid bright lights","Skin Creams, Paracetamol, Blood Thinners"
+"Fatigue, Shortness of Breath",Food Poisoning,"Eat healthy, Maintain hygiene",Emergency Medical Help
+"Numbness, Joint Pain, Loss of Appetite, Swollen Glands",Pneumonia,Regular health checkups,Psychotherapy
+"Low Blood Pressure, Nausea, Heart Palpitations",Leukemia,"Avoid allergens, Reduce caffeine intake",Antibiotics
+"Nausea, Runny Nose, Fever, Memory Loss",Food Poisoning,"Sleep properly, Avoid crowded places",Dietary Supplements
+"Chest Pain, Sneezing",PCOS,"Rest, Avoid bright lights","Antiviral Drugs, Inhalers"
+"Muscle Weakness, Runny Nose, Frequent Urination, Dizziness",Lung Infection,"Sleep properly, Monitor blood pressure, Stay hydrated","Hormonal Therapy, Painkillers"
+"Tingling Sensation, Blurred Vision",Arrhythmia,Sleep properly,"Antibiotics, Pacemaker Implantation"
+"Cough, Dry Skin, Weight Loss",Diabetes,"Monitor blood pressure, Stay hydrated, Avoid smoking",Emergency Medical Help
+"Frequent Urination, Chest Pain, Sore Throat, Back Pain",Pancreatitis,"Take vaccines, Avoid crowded places","Shockwave Therapy, Eye Drops"
+"Dry Skin, Swollen Glands",Heart Attack,Avoid allergens,"Vaccination, Insulin, Anti-inflammatory Drugs"
+"Diarrhea, Ear Pain",Diabetes,"Maintain hygiene, Reduce salt intake","Cough Syrup, IV Fluids, Antiviral Drugs"
+"Low Blood Pressure, Cough, Frequent Urination, Difficulty Swallowing",Arthritis,"Maintain hygiene, Monitor blood pressure","Cognitive Therapy, Paracetamol"
+"Joint Pain, Cough, Nosebleeds",Eczema,"Take vaccines, Avoid bright lights","Surgery, Shockwave Therapy"
+"Fatigue, Weight Loss, Swollen Glands",Lung Infection,Exercise regularly,Antibiotics
+"Low Blood Pressure, Muscle Weakness",Malaria,"Reduce salt intake, Reduce sugar intake, Reduce caffeine intake",Antiviral Drugs
+"Dizziness, Frequent Urination, Abdominal Pain",Vertigo,Get proper nutrition,"Hormonal Therapy, Vitamin Supplements, Cognitive Therapy"
+"Memory Loss, Cough, Back Pain",Lupus,"Eat healthy, Avoid crowded places, Avoid bright lights",Radiation Therapy
+"Frequent Urination, Numbness, Joint Pain",Arthritis,"Exercise regularly, Regular health checkups",Painkillers
+"Dry Skin, Diarrhea",Diabetes,"Use sunscreen, Exercise regularly, Maintain hygiene","Paracetamol, Anti-inflammatory Drugs"
+"Dry Skin, Back Pain, Heart Palpitations, Ear Pain",Hypertension,Avoid smoking,"Dietary Supplements, Anti-inflammatory Drugs"
+"Loss of Appetite, Fever, Cough, Heart Palpitations",Vertigo,"Get proper nutrition, Avoid smoking, Avoid stress",Surgery
+"Shortness of Breath, Chest Pain, Blurred Vision, Itchy Eyes",Meningitis,"Monitor blood pressure, Wash hands frequently, Take vaccines",Physiotherapy
+"Sensitivity to Light, Chest Pain, Shortness of Breath",Lupus,"Rest, Sleep properly, Take vaccines","Hormonal Therapy, Paracetamol, Inhalers"
+"Chest Pain, Memory Loss, Itchy Eyes",Common Cold,"Reduce salt intake, Avoid crowded places, Eat healthy","Antibiotics, Blood Thinners"
+"High Blood Pressure, Runny Nose",Typhoid,"Use mosquito repellent, Reduce caffeine intake","Blood Thinners, Surgery, Emergency Medical Help"
+"Shortness of Breath, Sneezing",Epilepsy,"Take vaccines, Avoid alcohol","Vitamin Supplements, Eye Drops"
+"Frequent Urination, Numbness, Blurred Vision",Epilepsy,Wear a mask,Emergency Medical Help
+"Numbness, Sensitivity to Light, Sweating",Diabetes,Avoid alcohol,"Steroids, Dietary Supplements"
+"Dizziness, Mood Swings",Pneumonia,"Avoid crowded places, Use an inhaler","Paracetamol, Bone Marrow Transplant"
+"Diarrhea, Swollen Glands, Tingling Sensation",Asthma,"Meditate daily, Exercise regularly, Regular health checkups",Radiation Therapy
+"Loss of Appetite, Rash, Runny Nose, Numbness",Liver Disease,Stay hydrated,Cognitive Therapy
+"Low Blood Pressure, Tingling Sensation, Mood Swings",Brain Tumor,Exercise regularly,"Chemotherapy, Anti-inflammatory Drugs, Pacemaker Implantation"
+"Frequent Urination, Low Blood Pressure",Eczema,"Use mosquito repellent, Exercise regularly","Radiation Therapy, Hormonal Therapy"
+"Runny Nose, Swollen Glands",Colon Cancer,Avoid stress,"Antiviral Drugs, Radiation Therapy, Painkillers"
+"High Blood Pressure, Shortness of Breath",Arrhythmia,"Sleep properly, Wear a mask","Steroids, Anti-inflammatory Drugs, Hormonal Therapy"
+"Swollen Glands, Chest Pain, Frequent Urination",Asthma,"Drink herbal tea, Avoid stress, Rest","Paracetamol, Blood Thinners, Steroids"
+"Muscle Weakness, Nosebleeds, Sneezing, Memory Loss",Colon Cancer,"Use sunscreen, Use mosquito repellent, Maintain hygiene","Antiviral Drugs, Blood Thinners"
+"Low Blood Pressure, Fever, Sneezing, Weight Loss",Malaria,"Drink herbal tea, Wear a mask, Use mosquito repellent","IV Fluids, Vaccination, Antibiotics"
+"Sore Throat, Excessive Thirst, Diarrhea",Colon Cancer,"Drink herbal tea, Exercise regularly","Cough Syrup, Surgery"
+"Low Blood Pressure, Joint Pain, Muscle Weakness, Swollen Glands",Multiple Sclerosis,Use an inhaler,Cognitive Therapy
+"Nausea, Headache",Meningitis,Avoid crowded places,Chemotherapy
+"Cough, Blurred Vision",Stroke,"Exercise regularly, Regular health checkups",Anti-inflammatory Drugs
+"Tremors, Fever",Glaucoma,"Stay hydrated, Reduce salt intake",Skin Creams
+"Loss of Appetite, Weight Loss, Numbness",Malaria,"Reduce sugar intake, Avoid bright lights, Meditate daily","Antifungal Medication, Cough Syrup"
+"Loss of Appetite, Numbness",Hepatitis,Avoid crowded places,"Skin Creams, Eye Drops"
+"Tremors, Dry Skin, Swollen Glands, Sweating",Flu,"Get proper nutrition, Meditate daily",Psychotherapy
+"Back Pain, Abdominal Pain, Excessive Thirst, Dizziness",Anemia,Meditate daily,Surgery
+"High Blood Pressure, Numbness",Asthma,"Avoid allergens, Reduce sugar intake","Dietary Supplements, Oxygen Therapy"
+"Shortness of Breath, Excessive Thirst",Pancreatitis,Use an inhaler,Shockwave Therapy
+"Sensitivity to Light, Swollen Glands, Ear Pain",Common Cold,Eat healthy,"Antifungal Medication, Anti-inflammatory Drugs"
+"High Blood Pressure, Ear Pain, Sneezing, Frequent Urination",Migraine,"Exercise regularly, Regular health checkups","Pacemaker Implantation, Eye Drops, Dietary Supplements"
+"Runny Nose, Ear Pain",Sciatica,"Reduce caffeine intake, Avoid allergens","Eye Drops, Physiotherapy"
+"Fatigue, Tremors, Sweating, Numbness",Dengue,"Get proper nutrition, Exercise regularly, Reduce sugar intake","Insulin, Cough Syrup, Psychotherapy"
+"Dizziness, Frequent Urination",Hypertension,"Avoid smoking, Wash hands frequently, Drink herbal tea",Insulin
+"Swollen Glands, Joint Pain, Muscle Weakness",Sinusitis,"Use sunscreen, Meditate daily","Chemotherapy, Cough Syrup"
+"Shortness of Breath, Frequent Urination, Sensitivity to Light, Nausea",Bronchitis,Exercise regularly,"IV Fluids, Cough Syrup"
+"Rash, Abdominal Pain",Hypertension,"Sleep properly, Wear a mask",Paracetamol
+"Joint Pain, Tremors, Runny Nose",Hypertension,Avoid smoking,"Psychotherapy, Eye Drops, Antibiotics"
+"Rash, Numbness, Sneezing, Swollen Glands",Bronchitis,Drink herbal tea,Surgery
+"Itchy Eyes, Sweating, Headache",Sciatica,"Avoid crowded places, Avoid stress, Maintain hygiene",Psychotherapy
+"Headache, Tremors",Malaria,Regular health checkups,"Vaccination, Cognitive Therapy"
+"Tingling Sensation, Blurred Vision, Abdominal Pain, Joint Pain",Arrhythmia,Use sunscreen,"Cognitive Therapy, Eye Drops, Painkillers"
+"Dry Skin, Diarrhea, Dizziness",Diabetes,"Monitor blood pressure, Sleep properly","Oxygen Therapy, Pacemaker Implantation"
+"Sore Throat, Blurred Vision, Shortness of Breath, Weight Loss",Kidney Stones,"Use an inhaler, Avoid smoking, Use mosquito repellent","Paracetamol, IV Fluids, Eye Drops"
+"Shortness of Breath, Chest Pain, Excessive Thirst",Anemia,"Maintain hygiene, Use mosquito repellent, Rest",Oxygen Therapy
+"Rash, Tingling Sensation",Heart Attack,Sleep properly,"Hormonal Therapy, Oxygen Therapy"
+"Chest Pain, Sore Throat, Nausea, Frequent Urination",Mental Stress,Regular health checkups,Antibiotics
+"Weight Loss, High Blood Pressure",Arthritis,Reduce salt intake,"Eye Drops, Bone Marrow Transplant, Blood Thinners"
+"Nausea, Headache, Numbness, Dry Skin",Asthma,Avoid crowded places,"Insulin, Antiviral Drugs, Psychotherapy"
+"Sneezing, Dry Skin, Cough, Rash",Tuberculosis,Take vaccines,"Vitamin Supplements, Chemotherapy, Psychotherapy"
+"Runny Nose, Diarrhea, Fatigue, Shortness of Breath",Kidney Stones,"Use mosquito repellent, Maintain hygiene","Radiation Therapy, Pacemaker Implantation"
+"Diarrhea, Fatigue, Loss of Appetite, High Blood Pressure",Glaucoma,"Get proper nutrition, Reduce sugar intake, Use an inhaler","Psychotherapy, Cognitive Therapy"
+"Tingling Sensation, Headache, Runny Nose, Abdominal Pain",Tuberculosis,"Reduce caffeine intake, Monitor blood pressure, Exercise regularly","Antiviral Drugs, Painkillers, Oral Rehydration"
+"Frequent Urination, Diarrhea, Sore Throat, Sneezing",Common Cold,Avoid crowded places,"Paracetamol, Antibiotics"
+"Rash, Weight Loss, Frequent Urination, Shortness of Breath",Sciatica,Maintain hygiene,"Antiviral Drugs, Blood Thinners, Emergency Medical Help"
+"Itchy Eyes, Frequent Urination, Heart Palpitations, Fatigue",Diabetes,Avoid stress,Radiation Therapy
+"Tingling Sensation, Dizziness, Shortness of Breath",Typhoid,"Avoid stress, Maintain hygiene","Vaccination, Antiviral Drugs, Dietary Supplements"
+"Mood Swings, Rash",Liver Disease,"Get proper nutrition, Regular health checkups, Wash hands frequently","Antifungal Medication, IV Fluids"
+"Loss of Appetite, Sneezing, Itchy Eyes, Sore Throat",Dengue,"Reduce caffeine intake, Rest, Get proper nutrition","Steroids, Paracetamol"
+"Low Blood Pressure, Mood Swings, Tingling Sensation",Pancreatitis,"Avoid crowded places, Exercise regularly",Vitamin Supplements
+"Sensitivity to Light, Low Blood Pressure, Loss of Appetite",Liver Disease,Avoid crowded places,Oxygen Therapy
+"Loss of Appetite, Nausea",Lupus,"Avoid bright lights, Regular health checkups",Antibiotics
+"Fever, Excessive Thirst, Heart Palpitations",Asthma,Eat healthy,"Painkillers, Antiviral Drugs"
+"Abdominal Pain, Sore Throat, Chest Pain",Flu,Avoid allergens,"Bone Marrow Transplant, Antiviral Drugs, Antihistamines"
+"Swelling in Legs, Headache, Dry Skin, Dizziness",Food Poisoning,"Avoid stress, Drink herbal tea, Avoid alcohol","Vaccination, Paracetamol"
+"Frequent Urination, Mood Swings, Joint Pain, Excessive Thirst",Pancreatitis,"Maintain hygiene, Use sunscreen, Monitor blood pressure","Oxygen Therapy, Pacemaker Implantation"
+"Sensitivity to Light, Headache",Epilepsy,"Use sunscreen, Avoid bright lights, Stay hydrated","Chemotherapy, Oral Rehydration"
+"Cold Hands, Cough, Runny Nose",Migraine,"Reduce caffeine intake, Take vaccines","Anti-inflammatory Drugs, Hormonal Therapy, Psychotherapy"
+"Excessive Thirst, Swelling in Legs, Back Pain, Cold Hands",Parkinson’s Disease,"Wash hands frequently, Use mosquito repellent","Antibiotics, Physiotherapy, Pacemaker Implantation"
+"Fever, Fatigue",Glaucoma,"Meditate daily, Take vaccines","Surgery, Shockwave Therapy, Painkillers"
+"Sweating, Ear Pain, Abdominal Pain",PCOS,Avoid stress,"Pacemaker Implantation, Cough Syrup, Skin Creams"
+"Sweating, Nosebleeds, Abdominal Pain",Asthma,Exercise regularly,"Radiation Therapy, Blood Thinners, Cognitive Therapy"
+"Shortness of Breath, Diarrhea",Typhoid,"Use an inhaler, Avoid allergens, Exercise regularly","Pacemaker Implantation, Vitamin Supplements, Steroids"
+"Blurred Vision, Diarrhea, Frequent Urination",Multiple Sclerosis,"Eat healthy, Maintain hygiene","Surgery, Hormonal Therapy, Oral Rehydration"
+"Cough, Tingling Sensation",Liver Disease,Maintain hygiene,"Anti-inflammatory Drugs, Oral Rehydration, IV Fluids"
+"Excessive Thirst, Itchy Eyes, Blurred Vision, Dizziness",Tuberculosis,"Take vaccines, Avoid alcohol","Anti-inflammatory Drugs, Antifungal Medication, Hormonal Therapy"
+"Loss of Appetite, Fever, Swollen Glands",Hepatitis,"Avoid stress, Use mosquito repellent, Avoid allergens",Chemotherapy
+"Weight Loss, Headache, Blurred Vision",Common Cold,"Reduce sugar intake, Avoid stress, Monitor blood pressure","Pacemaker Implantation, Paracetamol"
+"Dizziness, Itchy Eyes, Heart Palpitations",Kidney Stones,Avoid allergens,"Bone Marrow Transplant, Oxygen Therapy, Chemotherapy"
+"Back Pain, Sneezing, Numbness",Parkinson’s Disease,Maintain hygiene,"Dietary Supplements, Shockwave Therapy"
+"Rash, Fatigue",Liver Disease,Exercise regularly,Bone Marrow Transplant
+"Abdominal Pain, Blurred Vision, Dry Skin, Shortness of Breath",Lupus,"Use an inhaler, Avoid stress, Regular health checkups","Insulin, Oxygen Therapy, Painkillers"
+"Dizziness, Frequent Urination",Arthritis,"Stay hydrated, Avoid crowded places","Antifungal Medication, Antiviral Drugs"
+"Abdominal Pain, Headache, High Blood Pressure, Dizziness",Tuberculosis,"Eat healthy, Maintain hygiene","Vaccination, Radiation Therapy, Shockwave Therapy"
+"Dizziness, Tremors, Cold Hands",Migraine,Avoid smoking,"Dietary Supplements, Inhalers, Shockwave Therapy"
+"Sweating, Memory Loss, Shortness of Breath, Swollen Glands",Lung Infection,"Wash hands frequently, Wear a mask","Skin Creams, Physiotherapy"
+"Numbness, Fatigue",Arthritis,"Avoid crowded places, Sleep properly, Avoid allergens",Inhalers
+"Tremors, Headache",Arrhythmia,Avoid stress,"Painkillers, Emergency Medical Help, Shockwave Therapy"
+"Back Pain, Dry Skin, Fatigue, Swollen Glands",Pancreatitis,Drink herbal tea,"Radiation Therapy, Insulin, Cognitive Therapy"
+"Abdominal Pain, Joint Pain, High Blood Pressure, Heart Palpitations",Liver Disease,Avoid crowded places,Painkillers
+"Cough, Headache, Runny Nose",Common Cold,"Meditate daily, Reduce caffeine intake, Avoid smoking","IV Fluids, Chemotherapy"
+"Difficulty Swallowing, Sore Throat, Tingling Sensation, Swollen Glands",Mental Stress,"Regular health checkups, Reduce caffeine intake, Meditate daily","Radiation Therapy, IV Fluids, Eye Drops"
+"Sore Throat, Shortness of Breath",Multiple Sclerosis,Wash hands frequently,"IV Fluids, Inhalers, Insulin"
+"Back Pain, Memory Loss",Kidney Stones,Wear a mask,"Oral Rehydration, Hormonal Therapy"
+"Fever, Tremors, Headache",Flu,"Use mosquito repellent, Maintain hygiene, Wash hands frequently",Dietary Supplements
+"Frequent Urination, Nausea, Mood Swings, Fatigue",PCOS,Get proper nutrition,"Antihistamines, Cognitive Therapy, Inhalers"
+"Sneezing, Sore Throat, Joint Pain, Memory Loss",Arthritis,"Wash hands frequently, Avoid bright lights, Stay hydrated","Shockwave Therapy, Paracetamol, Antifungal Medication"
+"Sore Throat, Swelling in Legs, Mood Swings",Pancreatitis,Avoid alcohol,"Oxygen Therapy, Surgery"
+"Dizziness, Chest Pain, Nausea, Cough",Eczema,"Use mosquito repellent, Reduce caffeine intake",IV Fluids
+"Weight Loss, Ear Pain",Multiple Sclerosis,"Take vaccines, Avoid alcohol","Painkillers, Oral Rehydration, Antibiotics"
+"Blurred Vision, Chest Pain",Kidney Stones,"Take vaccines, Stay hydrated, Avoid bright lights","Hormonal Therapy, Eye Drops, Cognitive Therapy"
+"Sensitivity to Light, Swelling in Legs, Ear Pain",PCOS,"Take vaccines, Avoid stress",Chemotherapy
+"Nausea, Itchy Eyes, Shortness of Breath",Lung Infection,Avoid smoking,Shockwave Therapy
+"Cough, Sensitivity to Light, Itchy Eyes, Rash",Typhoid,"Use mosquito repellent, Avoid allergens",Surgery
+"Itchy Eyes, Back Pain",Liver Disease,"Eat healthy, Exercise regularly",Cough Syrup
+"Chest Pain, Dry Skin",Pancreatitis,"Get proper nutrition, Meditate daily, Avoid smoking","Steroids, Pacemaker Implantation"
+"Cold Hands, Heart Palpitations",Lung Infection,"Monitor blood pressure, Reduce sugar intake",Oxygen Therapy
+"Blurred Vision, Heart Palpitations, High Blood Pressure, Loss of Appetite",Anemia,"Rest, Avoid stress, Maintain hygiene","Chemotherapy, Emergency Medical Help, Hormonal Therapy"
+"Cold Hands, Mood Swings, Tingling Sensation",Multiple Sclerosis,"Rest, Avoid allergens, Sleep properly",Blood Thinners
+"Ear Pain, Back Pain",Kidney Stones,"Eat healthy, Monitor blood pressure","Oxygen Therapy, Paracetamol, IV Fluids"
+"Sensitivity to Light, Sore Throat, Shortness of Breath, Cough",Migraine,"Avoid alcohol, Avoid allergens",Cough Syrup
+"Loss of Appetite, Blurred Vision, Dry Skin",Sciatica,Wash hands frequently,"Steroids, Blood Thinners"
+"Sore Throat, Fever, Abdominal Pain, Loss of Appetite",Anemia,"Get proper nutrition, Take vaccines","Steroids, IV Fluids"
+"Difficulty Swallowing, Chest Pain, Fever",Migraine,"Reduce sugar intake, Get proper nutrition, Avoid allergens",IV Fluids
+"Shortness of Breath, Heart Palpitations",Typhoid,Wash hands frequently,"IV Fluids, Pacemaker Implantation"
+"Sneezing, Sweating",Anemia,"Take vaccines, Stay hydrated, Wear a mask","Inhalers, Vaccination"
+"Diarrhea, Chest Pain",Migraine,Exercise regularly,Surgery
+"Tingling Sensation, Numbness",Common Cold,Avoid alcohol,Eye Drops
+"Shortness of Breath, Sore Throat, Tingling Sensation",Kidney Stones,Avoid alcohol,Bone Marrow Transplant
+"Fatigue, Headache, Shortness of Breath",Vertigo,"Use mosquito repellent, Avoid bright lights","Oxygen Therapy, Insulin"
+"Rash, Dizziness, Cold Hands",Asthma,Avoid stress,"Emergency Medical Help, Radiation Therapy, Dietary Supplements"
+"Abdominal Pain, Frequent Urination",Parkinson’s Disease,Use sunscreen,Chemotherapy
+"Dizziness, Rash",Colon Cancer,"Use sunscreen, Monitor blood pressure, Avoid stress",Skin Creams
+"Nausea, Low Blood Pressure, Difficulty Swallowing",PCOS,"Maintain hygiene, Exercise regularly, Drink herbal tea","Radiation Therapy, Antiviral Drugs, Blood Thinners"
+"Muscle Weakness, Ear Pain, Nosebleeds",Meningitis,"Drink herbal tea, Avoid stress, Wear a mask","Cognitive Therapy, Physiotherapy"
+"Swollen Glands, Back Pain",Epilepsy,"Rest, Sleep properly, Stay hydrated",Vaccination
+"Sore Throat, High Blood Pressure, Weight Loss, Itchy Eyes",Food Poisoning,"Use sunscreen, Avoid smoking, Reduce salt intake","Emergency Medical Help, Cognitive Therapy"
+"Blurred Vision, Dry Skin, Cough, Nausea",Stroke,"Use mosquito repellent, Reduce salt intake, Use an inhaler",Pacemaker Implantation
+"Memory Loss, Weight Loss, Cough, Difficulty Swallowing",Arrhythmia,Avoid stress,Hormonal Therapy
+"High Blood Pressure, Swelling in Legs, Joint Pain",Liver Disease,"Take vaccines, Avoid smoking, Avoid stress","Dietary Supplements, Skin Creams"
+"Ear Pain, Sensitivity to Light",Malaria,"Monitor blood pressure, Avoid smoking, Avoid stress","Steroids, Cough Syrup"
+"Rash, Excessive Thirst, Ear Pain, Sore Throat",Lung Infection,"Monitor blood pressure, Exercise regularly",Skin Creams
+"Blurred Vision, Tremors, Chest Pain",Tuberculosis,"Avoid smoking, Avoid bright lights",Oral Rehydration
+"Blurred Vision, Cold Hands, Swelling in Legs, Abdominal Pain",Stroke,Avoid stress,Blood Thinners
+"Memory Loss, Weight Loss, Excessive Thirst, Fever",Stroke,Meditate daily,"Physiotherapy, Antifungal Medication"
+"Fatigue, Heart Palpitations, Weight Loss, Sensitivity to Light",Arrhythmia,Wash hands frequently,"Shockwave Therapy, IV Fluids, Insulin"
+"Low Blood Pressure, Numbness, Fatigue",Sinusitis,"Get proper nutrition, Use mosquito repellent",Antihistamines
+"Sensitivity to Light, Headache",Anemia,Avoid alcohol,"Chemotherapy, Surgery, Vitamin Supplements"
+"Swollen Glands, Cold Hands, Cough, Loss of Appetite",Hypertension,"Meditate daily, Use sunscreen",Blood Thinners
+"Rash, Tremors, High Blood Pressure, Abdominal Pain",Hypertension,"Use sunscreen, Wash hands frequently, Meditate daily","Antiviral Drugs, Cognitive Therapy"
+"High Blood Pressure, Loss of Appetite",Lupus,Reduce caffeine intake,"Skin Creams, Psychotherapy, Bone Marrow Transplant"
+"Numbness, Abdominal Pain",Common Cold,"Avoid crowded places, Avoid alcohol","Skin Creams, Pacemaker Implantation"
+"Abdominal Pain, Excessive Thirst, Fatigue",Arrhythmia,"Avoid crowded places, Sleep properly, Monitor blood pressure","Steroids, Insulin, Vaccination"
+"Diarrhea, Numbness, Sweating, Fatigue",Diabetes,Wear a mask,"Bone Marrow Transplant, Physiotherapy, Eye Drops"
+"Swollen Glands, Sensitivity to Light, Tingling Sensation",Colon Cancer,Sleep properly,"Antihistamines, Blood Thinners"
+"Numbness, Dry Skin",Anemia,"Avoid smoking, Monitor blood pressure, Eat healthy",Oral Rehydration
+"Sensitivity to Light, Headache",Flu,"Avoid bright lights, Avoid alcohol, Use sunscreen","Eye Drops, Pacemaker Implantation"
+"Difficulty Swallowing, Joint Pain, Cold Hands, Abdominal Pain",Heart Attack,Drink herbal tea,"Psychotherapy, Blood Thinners, Cough Syrup"
+"Abdominal Pain, Sweating, Weight Loss, Shortness of Breath",Bronchitis,Meditate daily,"Antiviral Drugs, Cognitive Therapy, Antifungal Medication"
+"Heart Palpitations, Shortness of Breath, Tremors, Blurred Vision",Leukemia,"Regular health checkups, Exercise regularly","Oxygen Therapy, Vaccination"
+"Headache, High Blood Pressure, Abdominal Pain",Asthma,"Use an inhaler, Avoid smoking, Exercise regularly",Cognitive Therapy
+"Muscle Weakness, Nausea",Pancreatitis,"Avoid alcohol, Avoid stress","Inhalers, Shockwave Therapy, Dietary Supplements"
+"Dry Skin, Sensitivity to Light, Itchy Eyes, Cough",Arrhythmia,Reduce caffeine intake,Pacemaker Implantation
+"Tingling Sensation, Swollen Glands",PCOS,Maintain hygiene,"Antibiotics, Insulin, Psychotherapy"
+"Itchy Eyes, Joint Pain, Headache, Tingling Sensation",Sinusitis,"Meditate daily, Exercise regularly",Oxygen Therapy
+"High Blood Pressure, Frequent Urination, Memory Loss, Ear Pain",Multiple Sclerosis,Avoid smoking,"Antifungal Medication, Chemotherapy, Insulin"
+"Mood Swings, Cough, Back Pain",Liver Disease,"Reduce caffeine intake, Sleep properly",Antihistamines
+"Dizziness, Nosebleeds",Brain Tumor,"Reduce sugar intake, Wash hands frequently, Regular health checkups",Psychotherapy
+"Sore Throat, Sweating, Numbness",Asthma,Reduce salt intake,"Vaccination, Physiotherapy"
+"Sore Throat, Dizziness, Chest Pain",Pancreatitis,Avoid allergens,"Pacemaker Implantation, Dietary Supplements, Inhalers"
+"Shortness of Breath, Sensitivity to Light, Mood Swings",Dengue,"Reduce salt intake, Use mosquito repellent","Dietary Supplements, Vitamin Supplements"
+"Fatigue, Nosebleeds",Leukemia,"Sleep properly, Avoid bright lights, Drink herbal tea","Vaccination, Blood Thinners"
+"Cold Hands, Sensitivity to Light",Malaria,Monitor blood pressure,Antibiotics
+"Headache, Muscle Weakness, Tingling Sensation, Cold Hands",Diabetes,"Rest, Avoid smoking, Get proper nutrition","Antifungal Medication, Psychotherapy, Emergency Medical Help"
+"Mood Swings, Nosebleeds, High Blood Pressure",Dengue,Monitor blood pressure,Dietary Supplements
+"Muscle Weakness, Back Pain, Diarrhea",Leukemia,"Drink herbal tea, Exercise regularly","Oxygen Therapy, Painkillers, Chemotherapy"
+"Tingling Sensation, Sensitivity to Light, Sore Throat, Back Pain",Pancreatitis,"Exercise regularly, Regular health checkups, Avoid bright lights","Steroids, Hormonal Therapy, Physiotherapy"
+"Fatigue, Sneezing",Lung Infection,"Exercise regularly, Maintain hygiene",Bone Marrow Transplant
+"Memory Loss, Swelling in Legs, Numbness",Brain Tumor,Take vaccines,"Inhalers, Cognitive Therapy, Oxygen Therapy"
+"Sneezing, Sensitivity to Light, Ear Pain",Bronchitis,"Rest, Regular health checkups","Chemotherapy, Emergency Medical Help"
+"Back Pain, Heart Palpitations",Hypertension,"Take vaccines, Use sunscreen, Use an inhaler",Skin Creams
+"Mood Swings, High Blood Pressure, Diarrhea, Heart Palpitations",Arthritis,Wash hands frequently,"Oxygen Therapy, Surgery"
+"Swelling in Legs, Nosebleeds, Difficulty Swallowing",Parkinson’s Disease,"Reduce sugar intake, Avoid alcohol","Steroids, Vitamin Supplements"
+"Cough, Rash, Fatigue, Swelling in Legs",Lupus,"Monitor blood pressure, Avoid alcohol, Reduce sugar intake","Bone Marrow Transplant, Paracetamol, Eye Drops"
+"Nosebleeds, Mood Swings, Headache",Glaucoma,Drink herbal tea,Vitamin Supplements
+"Back Pain, Cough, Shortness of Breath",Asthma,"Use an inhaler, Exercise regularly","Dietary Supplements, Surgery"
+"Frequent Urination, Chest Pain, Ear Pain",Sinusitis,"Wash hands frequently, Avoid alcohol",Paracetamol
+"Tremors, Nosebleeds, Cough",Flu,Avoid smoking,Skin Creams
+"Swelling in Legs, Sensitivity to Light",Common Cold,Reduce salt intake,Bone Marrow Transplant
+"Headache, Shortness of Breath, Loss of Appetite, Tingling Sensation",Meningitis,Drink herbal tea,Steroids
+"Blurred Vision, Swelling in Legs, Mood Swings",Thyroid Disease,Avoid alcohol,"Shockwave Therapy, Paracetamol, Eye Drops"
+"Excessive Thirst, Diarrhea",Diabetes,"Exercise regularly, Meditate daily, Avoid crowded places","Surgery, Oral Rehydration"
+"Ear Pain, Fever",Hepatitis,"Use mosquito repellent, Avoid bright lights, Reduce caffeine intake",Antibiotics
+"Rash, Back Pain, Fever, Swelling in Legs",Lung Infection,"Wear a mask, Avoid alcohol, Avoid crowded places",Antiviral Drugs
+"Sore Throat, Low Blood Pressure, Excessive Thirst",Lung Infection,"Wash hands frequently, Reduce sugar intake","Surgery, Physiotherapy"
+"Difficulty Swallowing, Blurred Vision, Memory Loss, Dizziness",Colon Cancer,"Meditate daily, Avoid crowded places, Avoid allergens",Antifungal Medication
+"Memory Loss, Sensitivity to Light, Sneezing, Ear Pain",Epilepsy,Get proper nutrition,"Pacemaker Implantation, Dietary Supplements"
+"Nausea, Cough",Anemia,"Drink herbal tea, Avoid bright lights, Meditate daily","Cough Syrup, Blood Thinners"
+"Sore Throat, Dry Skin",Colon Cancer,Exercise regularly,Inhalers
+"Heart Palpitations, Numbness, Sore Throat",Pneumonia,"Rest, Monitor blood pressure","Dietary Supplements, Blood Thinners, Painkillers"
+"Sensitivity to Light, Ear Pain",Arrhythmia,"Monitor blood pressure, Use mosquito repellent","Eye Drops, Chemotherapy"
+"Heart Palpitations, Numbness, Back Pain",Arrhythmia,Reduce sugar intake,"Chemotherapy, Antiviral Drugs, Dietary Supplements"
+"Weight Loss, Shortness of Breath, Memory Loss",Typhoid,"Avoid alcohol, Regular health checkups, Maintain hygiene","Surgery, Shockwave Therapy"
+"Swelling in Legs, Sensitivity to Light, Heart Palpitations",Heart Attack,"Reduce sugar intake, Use sunscreen, Exercise regularly","Eye Drops, Antifungal Medication"
+"Difficulty Swallowing, Diarrhea, Cough, Swollen Glands",Eczema,Avoid crowded places,"Blood Thinners, Radiation Therapy, Cognitive Therapy"
+"Nosebleeds, Mood Swings",Common Cold,Sleep properly,Blood Thinners
+"Fever, Headache, Cold Hands",Meningitis,Avoid stress,Paracetamol
+"Rash, Cold Hands, Excessive Thirst",Sinusitis,Use an inhaler,"Vaccination, Cough Syrup"
+"Back Pain, Fever, Sensitivity to Light, Muscle Weakness",Arthritis,"Wash hands frequently, Regular health checkups, Avoid alcohol","Steroids, Cough Syrup"
+"Rash, Excessive Thirst, Frequent Urination",Pneumonia,Maintain hygiene,Steroids
+"Cough, Frequent Urination",Typhoid,"Exercise regularly, Wear a mask, Wash hands frequently","Cough Syrup, Antibiotics"
+"Sneezing, Excessive Thirst, Sweating",Anemia,"Regular health checkups, Avoid crowded places","Steroids, Surgery"
+"Memory Loss, Abdominal Pain",Anemia,Use sunscreen,"IV Fluids, Anti-inflammatory Drugs, Radiation Therapy"
+"Abdominal Pain, Frequent Urination, Nausea, Fatigue",Hypertension,Avoid bright lights,Paracetamol
+"Swollen Glands, Joint Pain, Dizziness",Hypertension,"Meditate daily, Wear a mask, Avoid crowded places",Inhalers
+"Fatigue, Cold Hands, Low Blood Pressure, Cough",Common Cold,Use mosquito repellent,"Antiviral Drugs, Cough Syrup"
+"Headache, Dizziness",Epilepsy,"Exercise regularly, Regular health checkups, Reduce sugar intake",Dietary Supplements
+"Cough, Frequent Urination, Tremors",Liver Disease,"Maintain hygiene, Sleep properly","Antiviral Drugs, Dietary Supplements, Hormonal Therapy"
+"Swelling in Legs, Tremors, Excessive Thirst",Bronchitis,Avoid alcohol,Psychotherapy
+"Fever, Cold Hands",Diabetes,"Rest, Avoid smoking","Antihistamines, Paracetamol"
+"High Blood Pressure, Back Pain, Headache, Heart Palpitations",Lupus,"Exercise regularly, Drink herbal tea","Vaccination, Antibiotics"
+"Cold Hands, Swelling in Legs, High Blood Pressure",Brain Tumor,Reduce salt intake,"Anti-inflammatory Drugs, Paracetamol, Oxygen Therapy"
+"Difficulty Swallowing, Nosebleeds, Chest Pain, Fatigue",Sciatica,"Reduce caffeine intake, Meditate daily","Cognitive Therapy, Insulin, Antifungal Medication"
+"Muscle Weakness, Excessive Thirst",Lupus,"Meditate daily, Use an inhaler, Rest","Paracetamol, Vaccination, Antibiotics"
+"Mood Swings, Runny Nose",Typhoid,Reduce sugar intake,"Cognitive Therapy, Vaccination, Anti-inflammatory Drugs"
+"Ear Pain, Blurred Vision, Swollen Glands",Lung Infection,"Exercise regularly, Wash hands frequently",Antihistamines
+"Back Pain, Cold Hands, Diarrhea, Tremors",Mental Stress,Use an inhaler,"Chemotherapy, Pacemaker Implantation, Eye Drops"
+"Back Pain, Diarrhea, Rash, Runny Nose",Kidney Stones,"Exercise regularly, Maintain hygiene, Stay hydrated",Cognitive Therapy
+"Cough, Back Pain, Fever",Pancreatitis,"Exercise regularly, Avoid smoking, Meditate daily","Chemotherapy, IV Fluids, Cognitive Therapy"
+"Blurred Vision, Dizziness",PCOS,"Use an inhaler, Wash hands frequently","Vaccination, Inhalers, Shockwave Therapy"
+"Diarrhea, Itchy Eyes",Brain Tumor,"Exercise regularly, Rest",Dietary Supplements
+"Dry Skin, Diarrhea",Pneumonia,"Avoid bright lights, Use sunscreen, Eat healthy","Inhalers, Oral Rehydration"
+"Loss of Appetite, Low Blood Pressure",Hypertension,"Sleep properly, Rest",Paracetamol
+"Swollen Glands, Nosebleeds",Common Cold,Avoid crowded places,Skin Creams
+"Back Pain, Loss of Appetite, Tremors, Memory Loss",Flu,"Reduce caffeine intake, Wash hands frequently, Eat healthy",Radiation Therapy
+"Swollen Glands, Cold Hands",Food Poisoning,Avoid crowded places,Blood Thinners
+"Weight Loss, Sweating, Heart Palpitations",Hypertension,"Wash hands frequently, Reduce caffeine intake","Vitamin Supplements, Chemotherapy"
+"Swelling in Legs, Rash, Swollen Glands, Sensitivity to Light",Hepatitis,Maintain hygiene,"Radiation Therapy, IV Fluids, Insulin"
+"Nosebleeds, Fatigue, Swollen Glands, Swelling in Legs",Food Poisoning,"Avoid alcohol, Use sunscreen",Oral Rehydration
+"Back Pain, Swollen Glands, Fever",Lung Infection,"Stay hydrated, Reduce sugar intake, Rest","Vaccination, Inhalers"
+"Chest Pain, Tremors",Tuberculosis,"Stay hydrated, Sleep properly, Wash hands frequently","Oxygen Therapy, Paracetamol, Antifungal Medication"
+"Abdominal Pain, Joint Pain, Cold Hands, Chest Pain",Arrhythmia,Use sunscreen,"Oral Rehydration, Insulin"
+"Ear Pain, Frequent Urination, Heart Palpitations",Tuberculosis,Maintain hygiene,"Cough Syrup, Antifungal Medication"
+"High Blood Pressure, Low Blood Pressure, Memory Loss",Glaucoma,"Use an inhaler, Avoid bright lights, Take vaccines",Vitamin Supplements
+"Nosebleeds, Cough, Dry Skin",Pancreatitis,"Use mosquito repellent, Rest","Anti-inflammatory Drugs, Psychotherapy, Inhalers"
+"High Blood Pressure, Sore Throat",Lung Infection,Avoid alcohol,"IV Fluids, Hormonal Therapy"
+"Nausea, Excessive Thirst, Frequent Urination",Pancreatitis,"Avoid smoking, Use an inhaler",Blood Thinners
